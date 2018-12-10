@@ -4,12 +4,18 @@ layout: default
 
 # 菅原 健
 
-![sugawara](./fig/sugawara.jpg)
+![sugawara](./fig/sugawara.jpg){:width="300px"}
+
+Takeshi Sugawara
+
+役職：准教授
+
+email：sugawara 後ろに”@uec.ac.jp”を付けて下さい
+
+---
 
 ## 基本情報
 
-- email：sugawara 後ろに”@uec.ac.jp”を付けて下さい
-- 役職：准教授
 - 場所：電気通信大学 東3号館（総合研究棟）
 - 居室：828
 - 内線：5243
