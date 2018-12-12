@@ -45,7 +45,6 @@ layout: default
 1. K. Shimizu, T. Sugawara, D. Suzuki, “PUF as a Sensor,” In Proc. 4th Global Conference on Consumer Electronics (GCCE 2015), IEEE, October 2015.
 1. T. Sugawara, D. Suzuki, M. Saeki, “Two Operands of Multipliers in Side-Channel Attack,” In Proc. 6th International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2015), LNCS 9064, Springer-Verlag, pp. 64-78, April 2015.
 1. T. Sugawara, D. Suzuki, R. Fujii, S. Tawa, R. Hori, M. Shiozaki, T. Fujino, “Reversing Stealthy Dopant-Level Circuits,” In Proc. Cryptographic Hardware and Embedded Systems (CHES 2014), LNCS 8731, Springer-Verlag, pp, 112-126, September, 2014.
-1. T. Sugawara, “Internal Collision Attack on RSA under Closed EM Measurement,” SCIS/CSS invited sessions, The 9th International Workshop on Security (IWSEC2014), August 2014 (招待講演).
 1. T. Sugawara, D. Suzuki, M. Saeki, M. Shiozaki, T. Fujino, “On Measurable Side-Channel Leaks Inside ASIC Design Primitives,” In Proc. Cryptographic Hardware and Embedded Systems (CHES 2013), LNCS 8086, Springer-Verlag, pp. 159-178, August 2013.
 1. T. Sugawara, D. Suzuki, T. Katashita, “Circuit Simulation for Fault Sensitivity Analysis and Its Application to Cryptographic LSI,” In Proc. Workshop on Fault Diagnosis and Tolerance in Cryptography (FDTC2012), IEEE, pp. 16-23, September 2012.
 1. Y. Hayashi, N. Homma, T. Sugawara, T. Mizuki, T. Aoki, and H. Sone, “Non-invasive Trigger-free Fault Injection Method Based on Intentional Electromagnetic Interference,” In Proc. The Non-Invasive Attack Testing Workshop (NIAT 2011), National Institute of Standards and Technology, September 2011.
@@ -69,7 +68,7 @@ layout: default
 1. T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “ASIC Performance Comparison for the ISO Standard Block Ciphers,” In Proc. 2nd Joint Workshop on Information Security (JWIS2007), pp. 485-498, August 2007.
 1. T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “A High-Performance ASIC Implementation of the 64-bit Block Cipher CAST-128,” In Proc. International Symposium on Circuits and Systems (ISCAS2007), IEEE, pp. 1859-1862, May 2007. 1.
 
-## 学会口頭発表（上記以外のもの, 査読なし，2017年〜）
+## 学会口頭発表（査読なし，2017年〜）
 
 1. 伊藤駿輔, 菅原健, 崎山一男, 李陽, “AESの指定したラウンド間差分の平文探索アルゴリズムの改良,” IEICE2018年ソサイエティ大会, (Sep., 2018).
 1. 羽田野凌太, 庄司奈津, 李陽, 菅原健, 崎山一男, “AES暗号への故障差分攻撃のモデル化と攻撃回数の評価,” IEICE2018年ソサイエティ大会, (Sep., 2018).
@@ -99,9 +98,13 @@ layout: default
 ## 講演・チュートリアル・パネルディスカッション等
 
 1. 八代理紗, 菅原健, 岩本貢, 崎山一男, “PUFへの機械学習攻撃と耐性強化に向けて,” PUF技術シンポジウム2018, (Mar., 16th, 2018).
+1. 菅原健, "IoT における機器・ハードウェアへの攻撃の脅威," 情報セキュリティ・セミナー, 日本銀行・金融研究所, 2017（依頼講演）.
+1. 菅原健, "サイドチャネル攻撃と対策," 2017年ソサイエティ大会, AT3-3, 2017（チュートリアル）．
 1. T. Sugawara, “Security issues on the boundary of ideal and real worlds,” Dagstuhl seminar 16441: Adaptive Isolation for Security and Predictability, October 2016 (招待講演)．
 1. T. Sugawara, “Recent Results of Dopant-Based Circuit Camouflage Technique,” IEEE Asian Solid-State Circuits Conference (A-SSCC2015), November 2015(招待講演).
+1. T. Sugawara, “Internal Collision Attack on RSA under Closed EM Measurement,” SCIS/CSS invited sessions, The 9th International Workshop on Security (IWSEC2014), August 2014 (招待講演).
 1. T. Sugawara, “Hiding and Finding Circuit in Semiconductor Chip,” Netherlands-Japan Collaborative Cyber Security Conference in Tokyo, November 2015 (招待講演).
 1. T. Sugawara, “What we can see in a chip,” NII Shonan Meeting, 2014, September 2014 (招待講演).
+1. 菅原健, "サイドチャネル攻撃と最近の研究動向," 2013年ソサイエティ大会, BI1-2, 2013（依頼講演）．
 
 [back](./)
