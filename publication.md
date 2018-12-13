@@ -9,9 +9,9 @@ layout: default
 
 ## 学術論文（査読あり）
 
-1. T. Sugawara, "3-Share Threshold Implementation of AES S-box without Remasking,"  IACR Trans. Cryptographic Hardware and Embedded Systems 2019(1): 123-145 (2019).
+1. T. Sugawara, "3-Share Threshold Implementation of AES S-box without Fresh Randomness,"  IACR Trans. Cryptographic Hardware and Embedded Systems 2019(1): 123-145 (2019), [PDF](https://tches.iacr.org/index.php/TCHES/article/download/7336/6508/).
 1. K. Matsuda, T. Fujii, N. Shoji, T. Sugawara, K. Sakiyama, Y. Hayashi, M. Nagata, and N. Miura, "A 286 F2/Cell Distributed Bulk-Current Sensor and Secure Flush Code Eraser against Laser Fault Injection Attack on Cryptographic Processor," IEEE J. Solid-State Circuits 53(11): 3174-3182 (2018).
-1. Y. Naito, M. Matsui, T. Sugawara, and D. Suzuki, “SAEB: A Lightweight Blockcipher-Based AEAD Mode of Operation,” IACR Trans. Cryptographic Hardware and Embedded Systems 2018(2): 192-217 (2018)
+1. Y. Naito, M. Matsui, T. Sugawara, and D. Suzuki, “SAEB: A Lightweight Blockcipher-Based AEAD Mode of Operation,” IACR Trans. Cryptographic Hardware and Embedded Systems 2018(2): 192-217 (2018), [PDF](https://tches.iacr.org/index.php/TCHES/article/view/885).
 1. R. Yashiro, T. Sugawara, M. Iwamoto, and K. Sakiyama, “Q-class Authentication System for Double Arbiter PUF,” IEICE Trans. Fundamentals, Vol. E101-A, No. 1, pp. 129-137, January 2018.
 1. T. Sugawara, D. Suzuki, and M. Saeki, “Asymmetric Leakage from Multiplier and Collision-Based Single-Shot Side-Channel Attack,” IEICE Trans. Fundamentals, Vol.E99-A, No.7, pp.1323-1333, July 2016.
 1. T. Sugawara, D. Suzuki, R. Fujii, S. Tawa, R. Hori, M. Shiozaki, and T. Fujino, “Reversing Stealthy Dopant-Level Circuits,” Journal of Cryptographic Engineering, Vol. 5, Issue 2, Springer-Verlag, pp. 85-94, June 2015.
@@ -20,36 +20,36 @@ layout: default
 1. Y. Hayashi, N. Homma, T. Mizuki, T. Sugawara, Y. Kayano, T. Aoki, S. Minegishi, A. Satoh, H. Sone, and H. Inoue, “Evaluation of Information Leakage from Cryptographic Hardware via Common-Mode Current,” IEICE Trans. Electronics, Vol. E95-C, No. 6, pp. 1089-1097, June 2012.
 1. M. Knezevic, K. Kobayashi, J. Ikegami, S. Matsuo, A. Satoh, U. Kocabas, J. Fan, T. Katashita, T. Sugawara, K. Sakiyama, I. Verbauwhede, K. Ohta, N. Homma, and T. Aoki, “Fair and Consistent Hardware Evaluation of Fourteen Round Two SHA-3 Candidates,” IEEE Trans. VLSI Syst., Vol. 20, Issue 5, pp. 827-840, May 2012.
 1. S. Endo, T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “A Configurable On-Chip Glitchy-Clock Generator for Fault Injection Experiments,” IEICE Trans, Fundamentals, Vol. 95-A, No. 1, pp. 263-266, January 2012.
-1. 佐藤証，片下敏宏，菅原健，青木孝文, “ハッシュ関数Luffaのハードウェア実装,” 情報処理学会論文誌, Vol. 52, No. 12, pp. 3755-3765, December, 2011.
+1. 佐藤証，片下敏宏，菅原健，青木孝文, “ハッシュ関数Luffaのハードウェア実装,” 情報処理学会論文誌, Vol. 52, No. 12, pp. 3755-3765, December, 2011, [PDF](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=79578&item_no=1&attribute_id=1&file_no=1&page_id=13&block_id=8).
 1. T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “High-performance Architecture for Concurrent Error Detection for AES Processors,” IEICE Trans. Fundamentals, Vol. E94-A, No. 10, pp. 1971-1980, October 2011.
 1. S. Endo, T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “An On-chip Glitchy-clock Generator for Testing Fault Injection Attacks,” Journal of Cryptographic Engineering, Vol. 1, Issue 4, pp. 265-270, December 2011.
-1. T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “Profiling Attack using Multivariate Regression Analysis,” IEICE Electronics Express, Vol. 7, No. 15, pp. 1139-1144, August 2010.
-1. 菅原健, 本間尚文, 佐藤証，青木孝文，“ハッシュ関数Whirlpoolの高スケーラブル回路アーキテクチャ,”情報処理学会論文誌, Vol. 50, No. 11, pp. 2618-2632, November 2009. 13.	
+1. T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “Profiling Attack using Multivariate Regression Analysis,” IEICE Electronics Express, Vol. 7, No. 15, pp. 1139-1144, August 2010, [PDF](https://www.jstage.jst.go.jp/article/elex/7/15/7_15_1139/_pdf).
+1. 菅原健, 本間尚文, 佐藤証，青木孝文，“ハッシュ関数Whirlpoolの高スケーラブル回路アーキテクチャ,”情報処理学会論文誌, Vol. 50, No. 11, pp. 2618-2632, November 2009. 13, [PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=67443&item_no=1&attribute_id=1&file_no=1).
 1. A. Satoh, T. Sugawara, and T. Aoki, “High-Performance Hardware Architectures for Galois Counter Mode,” IEEE Trans. Computers, Vol. 58, Issue 7, pp. 917-930, July, 2009.
 1. N. Homma, S. Nagashima, T. Sugawara, T. Aoki, and A. Satoh, “A High-Resolution Phase-Based Waveform Matching and Its Application to Side-Channel Attacks,” IEICE Trans. Fundamentals, Vol. E91-A, No. 1, pp. 193-202, January 2008. 1.	
 
 
 ## 解説論文
 
-1.	鈴木雅貴, 菅原健, 鈴木大輔, “サイドチャネル攻撃に対する安全性評価の研究動向とEMVカード固有の留意点,” 日本銀行金融研究所機関誌「金融研究」, 第34巻第4号, October 2015. 1. 
+1.	鈴木雅貴, 菅原健, 鈴木大輔, “サイドチャネル攻撃に対する安全性評価の研究動向とEMVカード固有の留意点,” 日本銀行金融研究所機関誌「金融研究」, 第34巻第4号, October 2015. 1, [PDF](https://www.imes.boj.or.jp/research/papers/japanese/kk34-4-6.pdf). 
 
 ## 国際会議プロシーディングス等（査読あり）
 
 1. Z. Yuan, Y.Li, K. Sakiyama, T. Sugawara, and J. Wang, “Recovering Memory Access Sequence with Differential Flush+Reload Attack,” ISPEC 2018: 424-439
-1. S. Nashimoto, D. Suzuki, T. Sugawara, and K. Sakiyama, "Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack,” AsiaCCS 2018: 511-524
+1. S. Nashimoto, D. Suzuki, T. Sugawara, and K. Sakiyama, "Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack,” AsiaCCS 2018: 511-524, [PDF](http://delivery.acm.org/10.1145/3200000/3196506/p511-nashimoto.pdf).
 1. K. Matsuda, T. Fujii, N. Shoji, T. Sugawara, K. Sakiyama, Y. Hayashi, M. Nagata, and N. Miura, “A 286F^2/Cell Distributed Bulk-Current Sensor and Secure Flush Code Eraser Against Laser Fault Injection Attack,” 2018 IEEE International Solid-State Circuits Conference (ISSCC), January 2018 (to appear).
 1. T. Sugawara, N. Shoji, K. Sakiyama, K. Matsuda, N. Miura, and M. Nagata, “Exploiting Bitflip Detector for Non-Invasive Probing and its Application to Ineffective Fault Analysis,” In Proc. Workshop on Fault Diagnosis and Tolerance in Cryptography (FDTC’17), IEEE, pp. 49-56, September 2017.
 1. N. Shoji, R. Matsumura, T. Sugawara, and K. Sakiyama, “An Evaluation of Ineffective Fault Analysis on AES using Single-Bit Bit-Set/Reset Faults,” Poster Session at the 12nd International Workshop on Security (IWSEC2017), Best Poster Awards, September 2017. 
 1. E. Miyamoto, T. Sugawara, and K. Sakiyama, “Efficient Software Implementation of Modular Multiplication in Prime Fields on TI’s DSP TMS320C6678,” In Proc. International Workshop on Information Security Applications (WISA’17), LNCS 10763 Springer-Verlag, pp. 261-273, 2018.
 1. S. Hirose, Y. Naito, and T. Sugawara, “Output Masking of Tweakable Even-Mansour can be Eliminated for Message Authentication Code,” In Proc.  Selected Areas in Cryptography (SAC 2016), LNCS, Springer-Verlag, (to appear).
 1. K. Shimizu, T. Sugawara, D. Suzuki, “PUF as a Sensor,” In Proc. 4th Global Conference on Consumer Electronics (GCCE 2015), IEEE, October 2015.
-1. T. Sugawara, D. Suzuki, M. Saeki, “Two Operands of Multipliers in Side-Channel Attack,” In Proc. 6th International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2015), LNCS 9064, Springer-Verlag, pp. 64-78, April 2015.
-1. T. Sugawara, D. Suzuki, R. Fujii, S. Tawa, R. Hori, M. Shiozaki, T. Fujino, “Reversing Stealthy Dopant-Level Circuits,” In Proc. Cryptographic Hardware and Embedded Systems (CHES 2014), LNCS 8731, Springer-Verlag, pp, 112-126, September, 2014.
-1. T. Sugawara, D. Suzuki, M. Saeki, M. Shiozaki, T. Fujino, “On Measurable Side-Channel Leaks Inside ASIC Design Primitives,” In Proc. Cryptographic Hardware and Embedded Systems (CHES 2013), LNCS 8086, Springer-Verlag, pp. 159-178, August 2013.
+1. T. Sugawara, D. Suzuki, M. Saeki, “Two Operands of Multipliers in Side-Channel Attack,” In Proc. 6th International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2015), LNCS 9064, Springer-Verlag, pp. 64-78, April 2015, [eprint](https://eprint.iacr.org/2015/291.pdf).
+1. T. Sugawara, D. Suzuki, R. Fujii, S. Tawa, R. Hori, M. Shiozaki, T. Fujino, “Reversing Stealthy Dopant-Level Circuits,” In Proc. Cryptographic Hardware and Embedded Systems (CHES 2014), LNCS 8731, Springer-Verlag, pp, 112-126, September, 2014, [eprint](https://eprint.iacr.org/2014/508.pdf).
+1. T. Sugawara, D. Suzuki, M. Saeki, M. Shiozaki, T. Fujino, “On Measurable Side-Channel Leaks Inside ASIC Design Primitives,” In Proc. Cryptographic Hardware and Embedded Systems (CHES 2013), LNCS 8086, Springer-Verlag, pp. 159-178, August 2013, [eprint](https://eprint.iacr.org/2013/579.pdf).
 1. T. Sugawara, D. Suzuki, T. Katashita, “Circuit Simulation for Fault Sensitivity Analysis and Its Application to Cryptographic LSI,” In Proc. Workshop on Fault Diagnosis and Tolerance in Cryptography (FDTC2012), IEEE, pp. 16-23, September 2012.
 1. Y. Hayashi, N. Homma, T. Sugawara, T. Mizuki, T. Aoki, and H. Sone, “Non-invasive Trigger-free Fault Injection Method Based on Intentional Electromagnetic Interference,” In Proc. The Non-Invasive Attack Testing Workshop (NIAT 2011), National Institute of Standards and Technology, September 2011.
 1. Y. Hayashi, T. Sugawara, N. Homma, T. Mizuki, T. Aoki, and H. Sone, “Non-Invasive EMI-Based Fault Injection Attack against Cryptographic Modules,” In Proc. International Symposium on Electromagnetic Compatibility (EMC2011), IEEE, pp. 763-767, August 2011.
-1. S. Endo, T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “An on-chip glitchy-clock generator and its application to safe-error attack,” In Proc. Second International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2011), pp. 175-182, February 2011.
+1. S. Endo, T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “An On-Chip Glitchy-Clock Generator and its Application to Safe-Error Attack,” In Proc. Second International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2011), pp. 175-182, February 2011.
 1. Y. Hayashi, T. Sugawara, Y. Kayano, N. Homma, T. Mizuki, A. Satoh, T. Aoki, S. Minegishi, H. Sone, and H. Inoue, “Information Leakage from Cryptographic Hardware via Common-Mode Current,” In Proc. International Symposium on Electromagnetic Compatibility (EMC2010), IEEE, pp. 109-114, July 2010 (招待講演).
 1. M. Yamaguchi, H. Toriduka, S. Kobayashi, T. Sugawara, N. Homma, A. Satoh, and T. Aoki, “Development of an On-Chip Micro Shielded-Loop Probe to Evaluate Performance of Magnetic Film to Protect a Cryptographic LSI from Electromagnetic Analysis,” In Proc. International Symposium on Electromagnetic Compatibility (EMC2010), IEEE, pp. 103-108, July 2010 (招待講演).
 1. A. Satoh, T. Katashita, T. Sugawara, N. Homma, and T. Aoki, “Hardware Implementations of Hash Function Luffa,” In Proc. International Symposium on Hardware-Oriented Security and Trust (HOST 2010), IEEE, pp. 130-134, June 2010.
@@ -101,6 +101,7 @@ layout: default
 1. 菅原健, "IoT における機器・ハードウェアへの攻撃の脅威," 情報セキュリティ・セミナー, 日本銀行・金融研究所, 2017（依頼講演）.
 1. 菅原健, "サイドチャネル攻撃と対策," 2017年ソサイエティ大会, AT3-3, 2017（チュートリアル）．
 1. T. Sugawara, “Security issues on the boundary of ideal and real worlds,” Dagstuhl seminar 16441: Adaptive Isolation for Security and Predictability, October 2016 (招待講演)．
+1. Y. Sasaki, Y. Todo, K. Aoki, Y. Naito, T. Sugawara, Y. Murakami, and M. Matsui, "Minalpher v1.1," submission to the CAESAR competition, 2015, [PDF](https://info.isl.ntt.co.jp/crypt/minalpher/files/minalpherv11.pdf).
 1. T. Sugawara, “Recent Results of Dopant-Based Circuit Camouflage Technique,” IEEE Asian Solid-State Circuits Conference (A-SSCC2015), November 2015(招待講演).
 1. T. Sugawara, “Internal Collision Attack on RSA under Closed EM Measurement,” SCIS/CSS invited sessions, The 9th International Workshop on Security (IWSEC2014), August 2014 (招待講演).
 1. T. Sugawara, “Hiding and Finding Circuit in Semiconductor Chip,” Netherlands-Japan Collaborative Cyber Security Conference in Tokyo, November 2015 (招待講演).
