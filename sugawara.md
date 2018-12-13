@@ -56,26 +56,23 @@ email：sugawara 後ろに”@uec.ac.jp”を付けて下さい
 
 ## 特許
 
-1. 梨本翔永, 菅原健, “信号処理装置、信号処理方法及び信号処理プログラム” WO2018055748A1.
-1. 菅原健, “無線通信装置，論理値選択方法及び論理値選択プログラム”,　特許第6109445号（2016/04/27出願）.
-1. 福田寿志, 米田健, 小林信博, 鈴木大輔, 三澤学, 清水孝一, 菅原健, "セキュリティ装置，及びセキュリティ方法”, 特許第6103169号（2015/11/05出願）.
-1. 佐伯稔, 菅原健, "攻撃検出装置", 出願番号PCT/JP2015/064025, （2015/05/15出願）.
-1. 菅原健, “乱数拡大装置、乱数拡大方法及び乱数拡大プログラム", 特許第6058245号（2015/01/15出願）.
-1. 菅原健，“ソフトウェア更新装置及びソフトウェア更新プログラム”, 特許第6053950号 (2013/11/06出願).
-1. 菅原健, “半導体装置”, 特許第5976220号（2013/07/16出願）.
-1. ヴィオムカミーユ, 鈴木大輔, 菅原健, 遠藤隆, “半導体装置”, 特願2013-15227, 特開2014-145958 (2013/01/30出願).
-1. 佐藤証，菅原健，本間尚文，青木孝文, “誤り検出機能を備える符号化又は復号処理のための回路構成”, 出願（2009/05/19），特願2008-130361 ，特開2009-278576 ，国際出願番号: PCT/JP2009/059167．
+- 梨本翔永, 菅原健, “信号処理装置、信号処理方法及び信号処理プログラム” WO2018055748A1.
+- 菅原健, “無線通信装置，論理値選択方法及び論理値選択プログラム”,　特許第6109445号（2016/04/27出願）.
+- 福田寿志, 米田健, 小林信博, 鈴木大輔, 三澤学, 清水孝一, 菅原健, "セキュリティ装置，及びセキュリティ方法”, 特許第6103169号（2015/11/05出願）.
+- 佐伯稔, 菅原健, "攻撃検出装置", 出願番号PCT/JP2015/064025, （2015/05/15出願）.
+- 菅原健, “乱数拡大装置、乱数拡大方法及び乱数拡大プログラム", 特許第6058245号（2015/01/15出願）.
+- 菅原健，“ソフトウェア更新装置及びソフトウェア更新プログラム”, 特許第6053950号 (2013/11/06出願).
+- 菅原健, “半導体装置”, 特許第5976220号（2013/07/16出願）.
+- ヴィオムカミーユ, 鈴木大輔, 菅原健, 遠藤隆, “半導体装置”, 特願2013-15227, 特開2014-145958 (2013/01/30出願).
+- 佐藤証，菅原健，本間尚文，青木孝文, “誤り検出機能を備える符号化又は復号処理のための回路構成”, 出願（2009/05/19），特願2008-130361 ，特開2009-278576 ，国際出願番号: PCT/JP2009/059167．
 
 ## プログラム委員
 
-|会議名|期間|
-|---|---|
-|International Workshop on Security (IWSEC) | 2013, 2014 |
-|Smart Card Research and Advanced Application Conference (CARDIS) | 2015, 2016 |
-|Fault Diagnosis and Tolerance in Cryptography (FDTC) | 2017, 2018 |
-|Asian Hardware Oriented Security and Trust Symposium (AsianHOST) | 2017, 2018 |
-|Cryptographer’s track at RSA Conference 2019 (CT-RSA2019) | 2019 |
-
+- Program committee, International Workshop on Security (IWSEC), 2013 and 2014.
+- Program committee, Smart Card Research and Advanced Application Conference (CARDIS), 2015 and 2016.
+- Program committee, Fault Diagnosis and Tolerance in Cryptography (FDTC), 2017 and 2018.
+- Program committee, Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2017 and 2018.
+- Program committee, Cryptographer’s track at RSA Conference 2019 (CT-RSA2019), 2019.
 ## 外部サイト
 
 - [DBLP](http://dblp.uni-trier.de/pers/hd/s/Sugawara:Takeshi)
