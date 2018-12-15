@@ -50,7 +50,7 @@ email：sugawara 後ろに”@uec.ac.jp”を付けて下さい
 - 2015年06月12日 情報通信システムセキュリティ（ICSS）・研究賞
 - 2016年01月22日 第33回暗号と情報セキュリティシンポジウム（SCIS）・論文賞（藤堂洋介）
 - 2017年09月01日 The 12th International Workshop on Security (IWSEC2017), Best Poster Award (庄司奈津).
-- 2018年03月02日 サイバーセキュリティシンポジウム道後2018学生研究賞受賞（庄司奈津）
+- 2018年03月02日 サイバーセキュリティシンポジウム道後2018学生研究賞（庄司奈津）
 - 2018年09月05日 The 13th International Workshop on Security (IWSEC2018), Best Poster Award (辰巳恵里奈).
 
 
@@ -66,16 +66,18 @@ email：sugawara 後ろに”@uec.ac.jp”を付けて下さい
 - ヴィオムカミーユ, 鈴木大輔, 菅原健, 遠藤隆, “半導体装置”, 特願2013-15227, 特開2014-145958 (2013/01/30出願).
 - 佐藤証，菅原健，本間尚文，青木孝文, “誤り検出機能を備える符号化又は復号処理のための回路構成”, 出願（2009/05/19），特願2008-130361 ，特開2009-278576 ，国際出願番号: PCT/JP2009/059167．
 
-## プログラム委員
+## 委員など
 
-- Program committee, International Workshop on Security (IWSEC), 2013 and 2014.
-- Program committee, Smart Card Research and Advanced Application Conference (CARDIS), 2015 and 2016.
-- Program committee, Fault Diagnosis and Tolerance in Cryptography (FDTC), 2017 and 2018.
-- Program committee, Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2017 and 2018.
 - Program committee, Cryptographer’s track at RSA Conference 2019 (CT-RSA2019), 2019.
+- Program committee, Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2017 and 2018.
+- Program committee, Fault Diagnosis and Tolerance in Cryptography (FDTC), 2017 and 2018.
+- Program committee, Smart Card Research and Advanced Application Conference (CARDIS), 2015 and 2016.
+- Program committee, International Workshop on Security (IWSEC), 2013 and 2014.
+
 ## 外部サイト
 
 - [DBLP](http://dblp.uni-trier.de/pers/hd/s/Sugawara:Takeshi)
-
+- [Google Scholar](https://scholar.google.co.jp/citations?user=q_rCsqEAAAAJ)
+- [UEC](http://kjk.office.uec.ac.jp/Profiles/73/0007261/profile.html)
 
 [back](./)
