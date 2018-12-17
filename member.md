@@ -12,6 +12,9 @@ layout: default
 |[藤 聡子](./toh.html)         | B4    | a.toh15 |
 |[中村 隆太](./nakamura.html)  | B4    | r.nakamura |
 |[西山 優太](./nishiyama.html) | B4    | y.nishiyama |
+|[小沼 竜也](./onuma.html)      | B3   |     |
+|[土屋 彩夏](./tsuchiya.html)   | B3    |         |
+|[薮茉莉花](./yabu.html)        | B3    |          |
 
 
 [back](./)
