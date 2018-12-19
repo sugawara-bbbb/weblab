@@ -1,2 +1,5 @@
 *.ai
 _site/
+.sass-cache
+Gemfile
+Gemfile.lock
