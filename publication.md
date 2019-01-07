@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. T. Sugawara, Y. Li, and K. Sakiyama, "Probing Attack of Share-Serial Threshold Implementation of AES," IET Electronics Letters, 2019 (to appear).
 1. T. Sugawara, "3-Share Threshold Implementation of AES S-box without Fresh Randomness,"  IACR Trans. Cryptographic Hardware and Embedded Systems 2019(1): 123-145 (2019), [PDF](https://tches.iacr.org/index.php/TCHES/article/download/7336/6508/).
 1. K. Matsuda, T. Fujii, N. Shoji, T. Sugawara, K. Sakiyama, Y. Hayashi, M. Nagata, and N. Miura, "A 286 F2/Cell Distributed Bulk-Current Sensor and Secure Flush Code Eraser against Laser Fault Injection Attack on Cryptographic Processor," IEEE J. Solid-State Circuits 53(11): 3174-3182 (2018).
 1. Y. Naito, M. Matsui, T. Sugawara, and D. Suzuki, “SAEB: A Lightweight Blockcipher-Based AEAD Mode of Operation,” IACR Trans. Cryptographic Hardware and Embedded Systems 2018(2): 192-217 (2018), [PDF](https://tches.iacr.org/index.php/TCHES/article/view/885).
@@ -35,13 +36,14 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
+1. R. Matsumura, T. Sugawara, and K. Sakiyama, "A Secure LiDAR with AES-Based Side-Channel Fingerprinting," 2018 Sixth International Symposium on Computing and Networking Workshops (CANDARW), 2018.
 1. Z. Yuan, Y.Li, K. Sakiyama, T. Sugawara, and J. Wang, “Recovering Memory Access Sequence with Differential Flush+Reload Attack,” ISPEC 2018: 424-439
 1. S. Nashimoto, D. Suzuki, T. Sugawara, and K. Sakiyama, "Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack,” AsiaCCS 2018: 511-524, [PDF](http://delivery.acm.org/10.1145/3200000/3196506/p511-nashimoto.pdf).
 1. K. Matsuda, T. Fujii, N. Shoji, T. Sugawara, K. Sakiyama, Y. Hayashi, M. Nagata, and N. Miura, “A 286F^2/Cell Distributed Bulk-Current Sensor and Secure Flush Code Eraser Against Laser Fault Injection Attack,” 2018 IEEE International Solid-State Circuits Conference (ISSCC), pp. 352--354, January 2018.
 1. T. Sugawara, N. Shoji, K. Sakiyama, K. Matsuda, N. Miura, and M. Nagata, “Exploiting Bitflip Detector for Non-Invasive Probing and its Application to Ineffective Fault Analysis,” In Proc. Workshop on Fault Diagnosis and Tolerance in Cryptography (FDTC’17), IEEE, pp. 49-56, September 2017.
 1. N. Shoji, R. Matsumura, T. Sugawara, and K. Sakiyama, “An Evaluation of Ineffective Fault Analysis on AES using Single-Bit Bit-Set/Reset Faults,” Poster Session at the 12nd International Workshop on Security (IWSEC2017), Best Poster Awards, September 2017. 
 1. E. Miyamoto, T. Sugawara, and K. Sakiyama, “Efficient Software Implementation of Modular Multiplication in Prime Fields on TI’s DSP TMS320C6678,” In Proc. International Workshop on Information Security Applications (WISA’17), LNCS 10763 Springer-Verlag, pp. 261-273, 2018.
-1. S. Hirose, Y. Naito, and T. Sugawara, “Output Masking of Tweakable Even-Mansour can be Eliminated for Message Authentication Code,” In Proc.  Selected Areas in Cryptography (SAC 2016), LNCS, Springer-Verlag, (to appear).
+1. S. Hirose, Y. Naito, and T. Sugawara, “Output Masking of Tweakable Even-Mansour can be Eliminated for Message Authentication Code,” In Proc.  Selected Areas in Cryptography (SAC 2016), LNCS vol. 10532, pp. 341--359, Springer-Verlag, 2016.
 1. K. Shimizu, T. Sugawara, D. Suzuki, “PUF as a Sensor,” In Proc. 4th Global Conference on Consumer Electronics (GCCE 2015), IEEE, October 2015.
 1. T. Sugawara, D. Suzuki, M. Saeki, “Two Operands of Multipliers in Side-Channel Attack,” In Proc. 6th International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2015), LNCS 9064, Springer-Verlag, pp. 64-78, April 2015, [eprint](https://eprint.iacr.org/2015/291.pdf).
 1. T. Sugawara, D. Suzuki, R. Fujii, S. Tawa, R. Hori, M. Shiozaki, T. Fujino, “Reversing Stealthy Dopant-Level Circuits,” In Proc. Cryptographic Hardware and Embedded Systems (CHES 2014), LNCS 8731, Springer-Verlag, pp, 112-126, September, 2014, [eprint](https://eprint.iacr.org/2014/508.pdf).
