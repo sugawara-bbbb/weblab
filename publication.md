@@ -36,6 +36,11 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
+1. N. Shoji, T. Sugawara, M. Iwamoto, and K. Sakiyama, "An Abstraction
+Model for 1-bit Probing Attack on Block Ciphers," IEEE 4th
+International Conference on Computer and Communication Systems (ICCCS
+2019), 2019 (to appear).
+
 1. R. Matsumura, T. Sugawara, and K. Sakiyama, "A Secure LiDAR with AES-Based Side-Channel Fingerprinting," 2018 Sixth International Symposium on Computing and Networking Workshops (CANDARW), 2018.
 1. Z. Yuan, Y.Li, K. Sakiyama, T. Sugawara, and J. Wang, “Recovering Memory Access Sequence with Differential Flush+Reload Attack,” ISPEC 2018: 424-439
 1. S. Nashimoto, D. Suzuki, T. Sugawara, and K. Sakiyama, "Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack,” AsiaCCS 2018: 511-524, [PDF](http://delivery.acm.org/10.1145/3200000/3196506/p511-nashimoto.pdf).
@@ -71,6 +76,8 @@ layout: default
 1. T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “A High-Performance ASIC Implementation of the 64-bit Block Cipher CAST-128,” In Proc. International Symposium on Circuits and Systems (ISCAS2007), IEEE, pp. 1859-1862, May 2007. 1.
 
 ## 学会口頭発表（査読なし，2017年〜）
+
+1. 廣瀬勝一, 菅原健, 駒野雄一, "サイドチャネル攻撃への耐性を有する認証暗号方式について," IT・ISEC・WBS合同研究会, 2019 (to appear).
 
 1. 高木翼, 崎山一男, 菅原健, 梨本翔永, 鈴木大輔, “SDAccel環境を用いたAES暗号CTRモードの高性能実装,” 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 1D1-1, 7 pages, (Jan., 2019).
 1. 鈴木大輔, 梨本翔永, 永塚智之, 高木翼, 李陽, 崎山一男, 菅原健, “FPGA搭載サーバにおける秘匿アクセラレーション,” 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 1D1-2, 8 pages, (Jan., 2019).
