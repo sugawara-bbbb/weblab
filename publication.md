@@ -36,11 +36,7 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. N. Shoji, T. Sugawara, M. Iwamoto, and K. Sakiyama, "An Abstraction
-Model for 1-bit Probing Attack on Block Ciphers," IEEE 4th
-International Conference on Computer and Communication Systems (ICCCS
-2019), 2019 (to appear).
-
+1. N. Shoji, T. Sugawara, M. Iwamoto, and K. Sakiyama, "An Abstraction Model for 1-bit Probing Attack on Block Ciphers," IEEE 4th International Conference on Computer and Communication Systems (ICCCS 2019), 2019 (to appear).
 1. R. Matsumura, T. Sugawara, and K. Sakiyama, "A Secure LiDAR with AES-Based Side-Channel Fingerprinting," 2018 Sixth International Symposium on Computing and Networking Workshops (CANDARW), 2018.
 1. Z. Yuan, Y.Li, K. Sakiyama, T. Sugawara, and J. Wang, “Recovering Memory Access Sequence with Differential Flush+Reload Attack,” ISPEC 2018: 424-439
 1. S. Nashimoto, D. Suzuki, T. Sugawara, and K. Sakiyama, "Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack,” AsiaCCS 2018: 511-524, [PDF](http://delivery.acm.org/10.1145/3200000/3196506/p511-nashimoto.pdf).
@@ -78,10 +74,10 @@ International Conference on Computer and Communication Systems (ICCCS
 ## 学会口頭発表（査読なし，2017年〜）
 
 1. 廣瀬勝一, 菅原健, 駒野雄一, "サイドチャネル攻撃への耐性を有する認証暗号方式について," IT・ISEC・WBS合同研究会, 2019 (to appear).
-
+1. 藤聡子, 李陽, 崎山一男, 菅原健, “分光スペクトルを用いたLEDの個体識別における電流変化の影響,” 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 3D4-2, 6 pages, (Jan., 2019).
+1. 菅原健, "Changing of the Guards の一般化," 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 3D3-4, (Jan., 2019).
 1. 高木翼, 崎山一男, 菅原健, 梨本翔永, 鈴木大輔, “SDAccel環境を用いたAES暗号CTRモードの高性能実装,” 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 1D1-1, 7 pages, (Jan., 2019).
 1. 鈴木大輔, 梨本翔永, 永塚智之, 高木翼, 李陽, 崎山一男, 菅原健, “FPGA搭載サーバにおける秘匿アクセラレーション,” 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 1D1-2, 8 pages, (Jan., 2019).
-1. 藤聡子, 李陽, 崎山一男, 菅原健, “分光スペクトルを用いたLEDの個体識別における電流変化の影響,” 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 3D4-2, 6 pages, (Jan., 2019).
 1. 伊藤駿輔, 菅原健, 崎山一男, 李陽, “AESの指定したラウンド間差分の平文探索アルゴリズムの改良,” IEICE2018年ソサイエティ大会, (Sep., 2018).
 1. 羽田野凌太, 庄司奈津, 李陽, 菅原健, 崎山一男, “AES暗号への故障差分攻撃のモデル化と攻撃回数の評価,” IEICE2018年ソサイエティ大会, (Sep., 2018).
 1. 八代理紗, 藤聡子, 菅原健, 崎山一男, “Arbiter PUFへのサイドチャネルモデリング攻撃の実装と応用,” IEICE2018年ソサイエティ大会, (Sep., 2018).
