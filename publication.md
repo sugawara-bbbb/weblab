@@ -8,7 +8,7 @@ layout: default
 
 
 ## 学術論文（査読あり）
-
+1. T. Sugawara, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Nagatsuka, "Oscillator without a Combinatorial Loop and its Threat to FPGA in Data Center," IET Electronics Letters, 2019 (to appear).
 1. T. Sugawara, Y. Li, and K. Sakiyama, "Probing Attack of Share-Serial Threshold Implementation of AES," IET Electronics Letters, 2019 (to appear).
 1. T. Sugawara, "3-Share Threshold Implementation of AES S-box without Fresh Randomness,"  IACR Trans. Cryptographic Hardware and Embedded Systems 2019(1): 123-145 (2019), [PDF](https://tches.iacr.org/index.php/TCHES/article/download/7336/6508/).
 1. K. Matsuda, T. Fujii, N. Shoji, T. Sugawara, K. Sakiyama, Y. Hayashi, M. Nagata, and N. Miura, "A 286 F2/Cell Distributed Bulk-Current Sensor and Secure Flush Code Eraser against Laser Fault Injection Attack on Cryptographic Processor," IEEE J. Solid-State Circuits 53(11): 3174-3182 (2018), [PDF](http://www.lib.kobe-u.ac.jp/repository/90005512.pdf).
