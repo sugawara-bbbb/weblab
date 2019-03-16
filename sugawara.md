@@ -52,6 +52,7 @@ email：sugawara 後ろに”@uec.ac.jp”を付けて下さい
 - 2017年09月01日 The 12th International Workshop on Security (IWSEC2017), Best Poster Award (庄司奈津).
 - 2018年03月02日 サイバーセキュリティシンポジウム道後2018学生研究賞（庄司奈津）
 - 2018年09月05日 The 13th International Workshop on Security (IWSEC2018), Best Poster Award (辰巳恵里奈).
+- 2019年03月08日 サイバーセキュリティシンポジウム道後2019学生研究賞（藤聡子）
 
 
 ## 特許
