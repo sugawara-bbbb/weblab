@@ -19,7 +19,7 @@ email : t.onuma　　後ろに”@uec.ac.jp”を付けてください
 Time-to-Digital Converter に対する測定時間操作攻撃
 
 ## Biography
-- 2016/04, 電気通信大学　情報理工学域　二類　入学
+- 2016/04, 電気通信大学　情報理工学域　Ⅱ類　入学
 
 
 ## List of Publication
