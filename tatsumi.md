@@ -8,7 +8,7 @@ layout: default
 
 Erina Tatsumi
 
-学年：修士1年
+学年　：修士1年
 
 email：e.tatsumi  後ろに”@uec.ac.jp”を付けてください
 
