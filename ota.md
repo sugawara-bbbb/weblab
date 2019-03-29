@@ -8,7 +8,7 @@ layout: default
 
 Jun Ota
 
-学年 　: 修士1年
+学年 : 修士1年
 
 email : 　　後ろに”@uec.ac.jp”を付けてください
 
