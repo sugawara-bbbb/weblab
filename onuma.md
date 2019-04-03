@@ -8,7 +8,7 @@ layout: default
 
 Onuma Tatsuya
 
-学年 : 学部3年
+学年 : 学部4年
 
 email : t.onuma　　後ろに”@uec.ac.jp”を付けてください
 

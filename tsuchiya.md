@@ -8,7 +8,7 @@ layout: default
 
 Ayaka Tsuchiya
 
-学年 : 学部3年
+学年 : 学部4年
 
 email : a.tsuchiya　　後ろに”@uec.ac.jp”を付けてください
 

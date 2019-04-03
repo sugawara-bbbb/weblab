@@ -4,11 +4,11 @@ layout: default
 
 # 薮茉莉花
 
-<!-- ![takaki](./fig/toh.jpg){:width="300px"} -->
+![yabu](./fig/yabu.jpeg){:width="300px"}
 
 Marika Yabu
 
-学年 : 学部3年
+学年 : 学部4年
 
 email : marika.yabu　　後ろに”@uec.ac.jp”を付けてください
 
