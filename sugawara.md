@@ -16,8 +16,8 @@ email：sugawara 後ろに”@uec.ac.jp”を付けて下さい
 
 ## 基本情報
 
-- 場所：電気通信大学 東3号館（総合研究棟）
-- 居室：828
+- 場所：電気通信大学 西3号館
+- 居室：218
 - 内線：5243
 
 ## 研究テーマ
@@ -81,5 +81,10 @@ email：sugawara 後ろに”@uec.ac.jp”を付けて下さい
 - [DBLP](http://dblp.uni-trier.de/pers/hd/s/Sugawara:Takeshi)
 - [Google Scholar](https://scholar.google.co.jp/citations?user=q_rCsqEAAAAJ)
 - [UEC](http://kjk.office.uec.ac.jp/Profiles/73/0007261/profile.html)
+
+## その他
+
+- 第四級アマチュア無線技士
+- エストニア電子国民
 
 [back](./)

@@ -105,6 +105,7 @@ layout: default
 
 ## 講演・チュートリアル・パネルディスカッション等
 
+1. Y. Naito, M. Matsui, Y. Sakai, D. Suzuki, K. Sakiyama, T. Sugawara, "SAEAES," a Round-1 Candidate of the NIST Lightweight Cryptography project, [PDF](https://csrc.nist.gov/CSRC/media/Projects/Lightweight-Cryptography/documents/round-1/spec-doc/SAEAES-spec.pdf).
 1. Y. Naito and T. Sugawara, "Lightweight Authenticated Encryption Mode of Operation for Tweakable Block Ciphers," Cryptology ePrint Archive: Report 2019/339.
 1. 八代理紗, 菅原健, 岩本貢, 崎山一男, “PUFへの機械学習攻撃と耐性強化に向けて,” PUF技術シンポジウム2018, (Mar., 16th, 2018).
 1. 菅原健, "IoT における機器・ハードウェアへの攻撃の脅威," 情報セキュリティ・セミナー, 日本銀行・金融研究所, 2017（依頼講演）.
