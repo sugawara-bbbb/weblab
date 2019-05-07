@@ -10,7 +10,7 @@ Jun Ota
 
 学年 : 修士1年
 
-email : 　　後ろに”@uec.ac.jp”を付けてください
+email :　j-ota.19 　　後ろに”@uec.ac.jp”を付けてください
 
 ---
 
