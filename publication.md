@@ -8,6 +8,7 @@ layout: default
 
 
 ## 学術論文（査読あり）
+1. T. Sugawara, N. Shoji, K. Sakiyama, K. Matsuda, N. Miura, and M. Nagata, "Side-Channel Leakage from Sensor-Based Countermeasures against Fault Injection Attack," Microelectronics Journal, to appear.
 1. T. Sugawara, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Nagatsuka, "Oscillator without a Combinatorial Loop and its Threat to FPGA in Data Center," IET Electronics Letters, 2019 [PDF](https://digital-library.theiet.org/content/journals/10.1049/el.2019.0163).
 1. T. Sugawara, Y. Li, and K. Sakiyama, "Probing Attack of Share-Serial Threshold Implementation of Advanced Encryption Standard," IET Electronics Letters, 2019 [PDF](https://digital-library.theiet.org/content/journals/10.1049/el.2018.7518).
 1. T. Sugawara, "3-Share Threshold Implementation of AES S-box without Fresh Randomness,"  IACR Trans. Cryptographic Hardware and Embedded Systems 2019(1): 123-145 (2019), [PDF](https://tches.iacr.org/index.php/TCHES/article/download/7336/6508/).
