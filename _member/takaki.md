@@ -1,16 +1,11 @@
 ---
-layout: default
+layout: member
+name: 高木 翼
+roman: Tsubasa Takaki
+fig: /fig/takaki.jpg
+grade: 修士1年
+email: t.takaki
 ---
-
-# 高木 翼
-
-![takaki](./fig/takaki.jpg){:width="300px"}
-
-Tsubasa Takaki
-
-学年：修士1年
-
-email：t.takaki 後ろに”@uec.ac.jp”を付けてください
 
 ---
 
@@ -39,4 +34,3 @@ email：t.takaki 後ろに”@uec.ac.jp”を付けてください
   2019年暗号と情報セキュリティシンポジウム(SCIS2019),
   1D1-2, 8pages, (Jan., 2019).
 
-[back](./)

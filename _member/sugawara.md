@@ -1,16 +1,11 @@
 ---
-layout: default
+layout: member
+name: 菅原 健
+roman: Takeshi Sugawara
+fig: /fig/sugawara.jpg
+grade: 准教授
+email: sugawara
 ---
-
-# 菅原 健
-
-![sugawara](./fig/sugawara.jpg){:width="300px"}
-
-Takeshi Sugawara
-
-役職：准教授
-
-email：sugawara 後ろに”@uec.ac.jp”を付けて下さい
 
 ---
 
@@ -88,4 +83,3 @@ email：sugawara 後ろに”@uec.ac.jp”を付けて下さい
 - 第四級アマチュア無線技士
 - エストニア電子国民
 
-[back](./)

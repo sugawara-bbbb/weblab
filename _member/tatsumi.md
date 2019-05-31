@@ -1,16 +1,11 @@
 ---
-layout: default
+layout: member
+name: 辰巳 恵里奈
+roman: Erina Tatsumi
+fig: /fig/tatsumi.jpg
+grade: 修士2年
+email: e.tatsumi
 ---
-
-# 辰巳 恵里奈
-
-![tatsumi](./fig/tatsumi.jpg){:width="300px"}
-
-Erina Tatsumi
-
-学年 ：修士2年
-
-email：e.tatsumi  後ろに”@uec.ac.jp”を付けてください
 
 ---
 
@@ -39,5 +34,3 @@ Row Hammer
 - 辰巳恵里奈, 菅原健, 崎山一男, “Raw Hammerの見える化,” コンピュータセキュリティシンポジウム2017(CSS2017)デモンストレーション（ポスター）セッション, (Oct., 2017).
 - Erina Tatsumi, Kazuo Sakiyama, and Takeshi Sugawara, “A Case Study of Row Hammer under Different Refresh Rates” Poster Session, IWSEC2018, (Aug., 2018).
 
-
-[back](./)
