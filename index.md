@@ -16,5 +16,3 @@ layout: default
 - 2019/01/22~25: 高木くん，藤さん(B4)が，[SCIS2019](https://www.iwsec.org/scis/2019/)で[発表]({% post_url news/2019-01-26-scis2019 %})しました
 
 - 2018/12/08: 新しい Web ページを作成しました
-
-{{site}}
