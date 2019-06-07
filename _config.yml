@@ -4,3 +4,8 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 lang: ja
+permalink: /:categories/:title
+collections:
+  member:
+    output: true
+    permalink: /member/:title

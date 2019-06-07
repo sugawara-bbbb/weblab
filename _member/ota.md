@@ -1,16 +1,11 @@
 ---
-layout: default
+layout: member
+name: 太田 順
+roman: Jun Ota
+fig: /fig/ota.jpg
+grade: 修士1年
+email: j-ota.19
 ---
-
-# 太田 順
-
-<!-- ![takaki](./fig/toh.jpg){:width="300px"} -->
-
-Jun Ota
-
-学年 : 修士1年
-
-email :　j-ota.19 　　後ろに”@uec.ac.jp”を付けてください
 
 ---
 
@@ -26,4 +21,3 @@ email :　j-ota.19 　　後ろに”@uec.ac.jp”を付けてください
 
 ## List of Publication
 
-[back](./)

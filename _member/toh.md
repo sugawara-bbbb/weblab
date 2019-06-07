@@ -1,16 +1,19 @@
 ---
-layout: default
+layout: member
+name: 藤 聡子
+roman: Akiko Toh
+fig: /fig/toh.jpg
+grade: 修士1年
+email: a.toh15
 ---
-
-# 藤 聡子
-
-![takaki](./fig/toh.jpg){:width="300px"}
+<!-- 
+![takaki](/fig/toh.jpg){:width="300px"}
 
 Akiko Toh
 
 学年 : 修士1年
 
-email : a.toh15　　後ろに”@uec.ac.jp”を付けてください
+email : a.toh15　　後ろに”@uec.ac.jp”を付けてください -->
 
 ---
 
@@ -37,5 +40,3 @@ email : a.toh15　　後ろに”@uec.ac.jp”を付けてください
 - 藤 聡子, 李 陽, 崎山 一男, 菅原 健, "分光器を用いたLEDの個体識別に向けた基礎的研究," IEICE2018年ソサイエティ大会, (Sep., 2018).
 - 藤聡子, 李陽, 崎山一男, 菅原健, “分光スペクトルを用いたLEDの個体識別における電流変化の影響,” 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 3D4-2, 6 pages, (Jan., 2019).
 
-
-[back](./)
