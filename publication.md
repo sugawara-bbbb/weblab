@@ -31,13 +31,9 @@ layout: default
 1. N. Homma, S. Nagashima, T. Sugawara, T. Aoki, and A. Satoh, “A High-Resolution Phase-Based Waveform Matching and Its Application to Side-Channel Attacks,” IEICE Trans. Fundamentals, Vol. E91-A, No. 1, pp. 193-202, January 2008. 1.	
 
 
-## 解説論文
-
-1.	菅原健, 﨑山一男, “組込機器のセキュリティを脅かすレーザーフォールト攻撃,” レーザー研究47巻7号, 2019. 
-1.	鈴木雅貴, 菅原健, 鈴木大輔, “サイドチャネル攻撃に対する安全性評価の研究動向とEMVカード固有の留意点,” 日本銀行金融研究所機関誌「金融研究」, 第34巻第4号, October 2015. 1, [PDF](https://www.imes.boj.or.jp/research/papers/japanese/kk34-4-6.pdf). 
-
 ## 国際会議プロシーディングス等（査読あり）
 
+1. K. Matsuda, S. Tada, M. Nagata, Y. Li, T. Sugawara, M. Iwamoto, K. Ohta, K. Sakiyama, and N. Miura, “An Information Leakage Sensor Based on Measurement of Laser-Induced Opto-Electric Bulk Current Density,” International Conference on Solid State Devices and Materials (SSDM’19), (to appear).
 1. N. Shoji, T. Sugawara, M. Iwamoto, and K. Sakiyama, "An Abstraction Model for 1-bit Probing Attack on Block Ciphers," IEEE 4th International Conference on Computer and Communication Systems (ICCCS 2019), 2019 (to appear).
 1. R. Matsumura, T. Sugawara, and K. Sakiyama, "A Secure LiDAR with AES-Based Side-Channel Fingerprinting," 2018 Sixth International Symposium on Computing and Networking Workshops (CANDARW), 2018.
 1. Z. Yuan, Y.Li, K. Sakiyama, T. Sugawara, and J. Wang, “Recovering Memory Access Sequence with Differential Flush+Reload Attack,” ISPEC 2018: 424-439
@@ -72,6 +68,15 @@ layout: default
 1. A. Satoh, T. Sugawara, and T. Aoki, “High-Speed Pipelined Hardware Architecture for Galois Counter Mode,” In Proc. 10th Information Security Conference (ISC2007), LNCS 4779, Springer-Verlag, pp 118-129, October 2007.
 1. T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “ASIC Performance Comparison for the ISO Standard Block Ciphers,” In Proc. 2nd Joint Workshop on Information Security (JWIS2007), pp. 485-498, August 2007.
 1. T. Sugawara, N. Homma, T. Aoki, and A. Satoh, “A High-Performance ASIC Implementation of the 64-bit Block Cipher CAST-128,” In Proc. International Symposium on Circuits and Systems (ISCAS2007), IEEE, pp. 1859-1862, May 2007. 1.
+
+## 著書
+
+1. 崎山一男，菅原健，李陽, “暗号ハードウェアのセキュリティ,” ISBN 978-4-339-02894-2, コロナ社, 2019
+
+## 解説論文
+
+1.	菅原健, 﨑山一男, “組込機器のセキュリティを脅かすレーザーフォールト攻撃,” レーザー研究47巻7号, 2019. 
+1.	鈴木雅貴, 菅原健, 鈴木大輔, “サイドチャネル攻撃に対する安全性評価の研究動向とEMVカード固有の留意点,” 日本銀行金融研究所機関誌「金融研究」, 第34巻第4号, October 2015. 1, [PDF](https://www.imes.boj.or.jp/research/papers/japanese/kk34-4-6.pdf). 
 
 ## 学会口頭発表（査読なし，2017年〜）
 
