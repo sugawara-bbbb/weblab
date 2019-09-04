@@ -8,6 +8,7 @@ layout: default
 
 
 ## 学術論文（査読あり）
+1. A. Toh, Y. Li, K. Sakiyama, and T. Sugawara, "Fingerprinting Light Emitting Diodes Using Spectrometer," IET Electronics Letters (to appear).
 1. T. Sugawara, N. Shoji, K. Sakiyama, K. Matsuda, N. Miura, and M. Nagata, "Side-Channel Leakage from Sensor-Based Countermeasures against Fault Injection Attack," Microelectronics Journal, Vol. 90, pp. 63-71, 2019, [PDF](https://www.sciencedirect.com/science/article/pii/S0026269218309534/pdfft?md5=41669e5a35c86b818295ed653078e7f8).
 1. T. Sugawara, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Nagatsuka, "Oscillator without a Combinatorial Loop and its Threat to FPGA in Data Center," IET Electronics Letters, 2019 [PDF](https://digital-library.theiet.org/content/journals/10.1049/el.2019.0163).
 1. T. Sugawara, Y. Li, and K. Sakiyama, "Probing Attack of Share-Serial Threshold Implementation of Advanced Encryption Standard," IET Electronics Letters, 2019 [PDF](https://digital-library.theiet.org/content/journals/10.1049/el.2018.7518).
