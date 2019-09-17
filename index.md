@@ -8,6 +8,8 @@ layout: default
 
 # News
 
+- 2019/09/14: 小沼くん，土屋さん，薮さん(B4)が，[ソサイエティ大会 2019](https://www.ieice-taikai.jp/2019society/jpn/index.html)で[発表]({% post_url news/2019-09-14-sotai2019 %})しました
+
 - 2019/07/24: [たこやきパーティー]({% post_url news/2019-07-24-takoyaki2019 %})をしました！
 
 - 2019/07/11: [OPEN_CAMPUS_2019]({% post_url news/2019-07-11-openCampus2019 %})について
