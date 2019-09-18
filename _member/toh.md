@@ -35,6 +35,9 @@ email : a.toh15　　後ろに”@uec.ac.jp”を付けてください -->
 
 ## List of Publication
 
+### 学術論文(査読あり)
+-  A. Toh, Y. Li, K. Sakiyama, and T. Sugawara, "Fingerprinting Light Emitting Diodes Using Spectrometer," IET Electronics Letters (to appear).
+
 ### 学会口頭発表(査読なし)
 - 八代 理紗, 藤　聡子, 菅原　健, 崎山 一男, “Arbiter PUFへのサイドチャネルモデリング攻撃の実装と応用,” IEICE2018年ソサイエティ大会, (Sep., 2018).
 - 藤 聡子, 李 陽, 崎山 一男, 菅原 健, "分光器を用いたLEDの個体識別に向けた基礎的研究," IEICE2018年ソサイエティ大会, (Sep., 2018).
