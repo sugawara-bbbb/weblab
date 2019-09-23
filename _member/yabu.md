@@ -19,3 +19,5 @@ email: marika.yabu
 
 ## List of Publication
 
+### 学会口頭発表(査読なし)
+- 薮茉莉花, 崎山一男, 菅原健, “ARM Cortex-M0におけるAES暗号化処理の小型実装,” IEICE2019年ソサイエティ大会, (Sep., 2019).

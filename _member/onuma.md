@@ -19,3 +19,5 @@ email: t.onuma
 
 ## List of Publication
 
+### 学会口頭発表(査読なし)
+- 小沼竜也, 李陽, 菅原健, “クロック操作によるTime-to-Time-to-Digital Converterへの情報改ざん攻撃,” IEICE2019年ソサイエティ大会, (Sep., 2019).
