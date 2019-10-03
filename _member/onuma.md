@@ -1,7 +1,7 @@
 ---
 layout: member
 name: 小沼竜也
-roman: Onuma Tetsuya
+roman: Tatsuya Onuma
 fig: /fig/onm.jpg
 grade: 学部4年
 email: t.onuma
