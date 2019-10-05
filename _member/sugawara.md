@@ -7,6 +7,9 @@ grade: 准教授
 email: sugawara
 ---
 
+[English Version](/member/sugawara_e)
+
+
 ---
 
 ## 基本情報
