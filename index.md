@@ -7,6 +7,7 @@ layout: default
 電気通信大学・菅原研究室では，ソフトウェアとハードウェアの境界面にあるセキュリティ上の問題を研究しています．[﨑山・李研究室](http://sakiyama-lab.jp/)と共同で運営を行っています．また，暗号理論・情報理論から安全性を研究する[太田・岩本研究室](http://ohta-lab.jp/)とも協力をしています．大学院入学を希望される学外生は[こちら](https://www.uec.ac.jp/admission/open-graduate/tour.html)から申し込むか，メールでご連絡ください．
 
 # News
+- 2019/10/28: 今年度の配属スケジュールを更新しました
 
 - 2019/09/14: 小沼くん，土屋さん，薮さん(B4)が，[ソサイエティ大会 2019](https://www.ieice-taikai.jp/2019society/jpn/index.html)で[発表]({% post_url news/2019-09-14-sotai2019 %})しました
 
