@@ -8,6 +8,12 @@ layout: default
 
 # News
 
+- 2019/11/04: レーザーを用いて音声コマンドを挿入する攻撃 [Light Commands](https://lightcommands.com/index_jp.html) を公開しました. 
+<iframe width="390" height="250" src="https://www.youtube.com/embed/ORji7Tz5GiI?rel=0&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="390" height="250" src="https://www.youtube.com/embed/ihRAwc24nXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="390" height="250" src="https://www.youtube.com/embed/iK2PtdQs77c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="390" height="250" src="https://www.youtube.com/embed/EtzP-mCwNAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - 2019/09/14: 小沼くん，土屋さん，薮さん(B4)が，[ソサイエティ大会 2019](https://www.ieice-taikai.jp/2019society/jpn/index.html)で[発表]({% post_url news/2019-09-14-sotai2019 %})しました
 
 - 2019/07/24: [たこやきパーティー]({% post_url news/2019-07-24-takoyaki2019 %})をしました！
