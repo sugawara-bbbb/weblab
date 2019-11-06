@@ -9,6 +9,14 @@ layout: default
 # News
 
 - 2019/11/04: レーザーを用いて音声コマンドを挿入する攻撃 [Light Commands](https://lightcommands.com/index_jp.html) を公開しました. 
+    - 報道(国内): [Gigazine](https://gigazine.net/news/20191105-shining-lasers-hack-voice-assistants/), [ITMedia](https://www.itmedia.co.jp/news/articles/1911/05/news058.html), [Engadget](https://japanese.engadget.com/2019/11/04/iphone/), [Gizmodo](https://www.gizmodo.jp/2019/11/light-command-scary.html)
+[CNET](https://japan.cnet.com/article/35144955/)
+    - 報道(海外): [Wired](https://www.wired.com/story/lasers-hack-amazon-echo-google-home/), 
+[Ars Technica](https://arstechnica.com/information-technology/2019/11/researchers-hack-siri-alexa-and-google-home-by-shining-lasers-at-them/), 
+[New York Times](https://www.nytimes.com/2019/11/04/technology/digital-assistant-laser-hack.html), 
+[CNN](https://edition.cnn.com/2019/11/04/tech/alexa-siri-laser-attack-research/index.html),
+[Washington Post](https://www.washingtonpost.com/business/2019/11/05/hackers-can-hijack-your-iphone-or-smart-speaker-with-simple-laser-pointer-even-outside-your-home/)
+
 <iframe width="390" height="250" src="https://www.youtube.com/embed/ORji7Tz5GiI?rel=0&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <iframe width="390" height="250" src="https://www.youtube.com/embed/ihRAwc24nXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="390" height="250" src="https://www.youtube.com/embed/iK2PtdQs77c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
