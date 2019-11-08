@@ -9,8 +9,7 @@ layout: default
 # News
 
 - 2019/11/04: レーザーを用いて音声コマンドを挿入する攻撃 [Light Commands](https://lightcommands.com/index_jp.html) を公開しました. 
-    - 報道(国内): [Gigazine](https://gigazine.net/news/20191105-shining-lasers-hack-voice-assistants/), [ITMedia](https://www.itmedia.co.jp/news/articles/1911/05/news058.html), [Engadget](https://japanese.engadget.com/2019/11/04/iphone/), [Gizmodo](https://www.gizmodo.jp/2019/11/light-command-scary.html)
-[CNET](https://japan.cnet.com/article/35144955/)
+    - 報道(国内): [Gigazine](https://gigazine.net/news/20191105-shining-lasers-hack-voice-assistants/), [ITMedia](https://www.itmedia.co.jp/news/articles/1911/05/news058.html), [Engadget](https://japanese.engadget.com/2019/11/04/iphone/), [Gizmodo](https://www.gizmodo.jp/2019/11/light-command-scary.html), [CNET](https://japan.cnet.com/article/35144955/), [Business Insider](https://www.businessinsider.jp/post-201928)
     - 報道(海外): [Wired](https://www.wired.com/story/lasers-hack-amazon-echo-google-home/), 
 [Ars Technica](https://arstechnica.com/information-technology/2019/11/researchers-hack-siri-alexa-and-google-home-by-shining-lasers-at-them/), 
 [New York Times](https://www.nytimes.com/2019/11/04/technology/digital-assistant-laser-hack.html), 
