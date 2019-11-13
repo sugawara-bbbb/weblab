@@ -21,7 +21,7 @@ layout: default
 <iframe width="390" height="250" src="https://www.youtube.com/embed/iK2PtdQs77c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <iframe width="390" height="250" src="https://www.youtube.com/embed/EtzP-mCwNAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 2019/10/28: 今年度の配属スケジュールを更新しました
+- 2019/10/28: 今年度の[配属スケジュール]({% post_url haizoku.md %})を更新しました
 
 - 2019/09/14: 小沼くん，土屋さん，薮さん(B4)が，[ソサイエティ大会 2019](https://www.ieice-taikai.jp/2019society/jpn/index.html)で[発表]({% post_url news/2019-09-14-sotai2019 %})しました
 
