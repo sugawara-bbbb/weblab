@@ -9,7 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
-1. Y. Naito and T. Sugawara, "Lightweight Authenticated Encryption Mode of Operation for Tweakable Block Ciphers," IACR Trans. Cryptographic Hardware and Embedded Systems 2020(1), to appear.
+1. Y. Naito and T. Sugawara, "Lightweight Authenticated Encryption Mode of Operation for Tweakable Block Ciphers," IACR Trans. Cryptographic Hardware and Embedded Systems 2020(1), pp. 66-94, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/8393/7777).
 1. A. Toh, Y. Li, K. Sakiyama, and T. Sugawara, "Fingerprinting Light Emitting Diodes Using Spectrometer," IET Electronics Letters, 2019 [PDF](https://digital-library.theiet.org/content/journals/10.1049/el.2019.1908).
 1. T. Sugawara, N. Shoji, K. Sakiyama, K. Matsuda, N. Miura, and M. Nagata, "Side-Channel Leakage from Sensor-Based Countermeasures against Fault Injection Attack," Microelectronics Journal, Vol. 90, pp. 63-71, 2019, [PDF](https://www.sciencedirect.com/science/article/pii/S0026269218309534/pdfft?md5=41669e5a35c86b818295ed653078e7f8).
 1. T. Sugawara, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Nagatsuka, "Oscillator without a Combinatorial Loop and its Threat to FPGA in Data Center," IET Electronics Letters, 2019 [PDF](https://digital-library.theiet.org/content/journals/10.1049/el.2019.0163).
