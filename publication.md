@@ -37,8 +37,8 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. Y. Naito, Y. Sasaki, and T. Sugawara, "Lightweight Authenticated Encryption Mode Suitable for Threshold Implementation," Eurocrypt2020, to appear.
-1. Y. Li, R. Hatano, S. Tada, K. Matsuda, N. Miura, T. Sugawara, and K. Sakiyama, "Side-Channel Leakage of Alarm Signal for a Bulk-Current-Based Laser Sensor," Inscrypt2019, to appear.
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "Lightweight Authenticated Encryption Mode Suitable for Threshold Implementation," Eurocrypt 2020, to appear.
+1. Y. Li, R. Hatano, S. Tada, K. Matsuda, N. Miura, T. Sugawara, and K. Sakiyama, "Side-Channel Leakage of Alarm Signal for a Bulk-Current-Based Laser Sensor," Inscrypt 2019, 2019.
 1. K. Matsuda, S. Tada, M. Nagata, Y. Li, T. Sugawara, M. Iwamoto, K. Ohta, K. Sakiyama, and N. Miura, “An Information Leakage Sensor Based on Measurement of Laser-Induced Opto-Electric Bulk Current Density,” International Conference on Solid State Devices and Materials (SSDM’19), (to appear).
 1. N. Shoji, T. Sugawara, M. Iwamoto and K. Sakiyama, "An Abstraction Model for 1-bit Probing Attack on Block Ciphers," 2019 IEEE 4th International Conference on Computer and Communication Systems (ICCCS), 2019, pp. 502-506.
 1. R. Matsumura, T. Sugawara, and K. Sakiyama, "A Secure LiDAR with AES-Based Side-Channel Fingerprinting," 2018 Sixth International Symposium on Computing and Networking Workshops (CANDARW), 2018.
@@ -125,6 +125,7 @@ layout: default
 
 ## 講演・チュートリアル・パネルディスカッション等
 
+1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: Laser-Based Audio Injection on Voice-Controllable Systems," 2019, [Web](https://lightcommands.com).
 1. Y. Naito, M. Matsui, Y. Sakai, D. Suzuki, K. Sakiyama, T. Sugawara, "SAEAES," a Round-1 Candidate of the NIST Lightweight Cryptography project, [PDF](https://csrc.nist.gov/CSRC/media/Projects/Lightweight-Cryptography/documents/round-1/spec-doc/SAEAES-spec.pdf).
 1. Y. Naito and T. Sugawara, "Lightweight Authenticated Encryption Mode of Operation for Tweakable Block Ciphers," Cryptology ePrint Archive: Report 2019/339.
 1. 八代理紗, 菅原健, 岩本貢, 崎山一男, “PUFへの機械学習攻撃と耐性強化に向けて,” PUF技術シンポジウム2018, (Mar., 16th, 2018).
