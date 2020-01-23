@@ -38,12 +38,12 @@ layout: default
 ## 国際会議プロシーディングス等（査読あり）
 
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Lightweight Authenticated Encryption Mode Suitable for Threshold Implementation," Eurocrypt 2020, to appear.
-1. Y. Li, R. Hatano, S. Tada, K. Matsuda, N. Miura, T. Sugawara, and K. Sakiyama, "Side-Channel Leakage of Alarm Signal for a Bulk-Current-Based Laser Sensor," Inscrypt 2019, 2019.
+1. Y. Li, R. Hatano, S. Tada, K. Matsuda, N. Miura, T. Sugawara, and K. Sakiyama, "Side-Channel Leakage of Alarm Signal for a Bulk-Current-Based Laser Sensor," The 15th International Conference on Information Security and Cryptology (Inscrypt 2019), 2019.
 1. K. Matsuda, S. Tada, M. Nagata, Y. Li, T. Sugawara, M. Iwamoto, K. Ohta, K. Sakiyama, and N. Miura, “An Information Leakage Sensor Based on Measurement of Laser-Induced Opto-Electric Bulk Current Density,” International Conference on Solid State Devices and Materials (SSDM’19), (to appear).
 1. N. Shoji, T. Sugawara, M. Iwamoto and K. Sakiyama, "An Abstraction Model for 1-bit Probing Attack on Block Ciphers," 2019 IEEE 4th International Conference on Computer and Communication Systems (ICCCS), 2019, pp. 502-506.
 1. R. Matsumura, T. Sugawara, and K. Sakiyama, "A Secure LiDAR with AES-Based Side-Channel Fingerprinting," 2018 Sixth International Symposium on Computing and Networking Workshops (CANDARW), 2018.
-1. Z. Yuan, Y.Li, K. Sakiyama, T. Sugawara, and J. Wang, “Recovering Memory Access Sequence with Differential Flush+Reload Attack,” ISPEC 2018: 424-439
-1. S. Nashimoto, D. Suzuki, T. Sugawara, and K. Sakiyama, "Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack,” AsiaCCS 2018: 511-524, [PDF](http://delivery.acm.org/10.1145/3200000/3196506/p511-nashimoto.pdf).
+1. Z. Yuan, Y.Li, K. Sakiyama, T. Sugawara, and J. Wang, “Recovering Memory Access Sequence with Differential Flush+Reload Attack,” The 14th International Conference on Information Security Practice and Experience (ISPEC 2018), pp. 424-439, 2018.
+1. S. Nashimoto, D. Suzuki, T. Sugawara, and K. Sakiyama, "Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack,” ACM Asia Conference on Computer and Communications Security 2018 (AsiaCCS 2018), pp. 511-524, [PDF](http://delivery.acm.org/10.1145/3200000/3196506/p511-nashimoto.pdf).
 1. K. Matsuda, T. Fujii, N. Shoji, T. Sugawara, K. Sakiyama, Y. Hayashi, M. Nagata, and N. Miura, “A 286F^2/Cell Distributed Bulk-Current Sensor and Secure Flush Code Eraser Against Laser Fault Injection Attack,” 2018 IEEE International Solid-State Circuits Conference (ISSCC), pp. 352--354, January 2018.
 1. T. Sugawara, N. Shoji, K. Sakiyama, K. Matsuda, N. Miura, and M. Nagata, “Exploiting Bitflip Detector for Non-Invasive Probing and its Application to Ineffective Fault Analysis,” In Proc. Workshop on Fault Diagnosis and Tolerance in Cryptography (FDTC’17), IEEE, pp. 49-56, September 2017.
 1. N. Shoji, R. Matsumura, T. Sugawara, and K. Sakiyama, “An Evaluation of Ineffective Fault Analysis on AES using Single-Bit Bit-Set/Reset Faults,” Poster Session at the 12nd International Workshop on Security (IWSEC2017), Best Poster Awards, September 2017. 
