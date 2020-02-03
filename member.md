@@ -24,8 +24,11 @@ layout: default
 |[小沼 竜也](member/onuma)      | B4   | t.onuma |
 |[土屋 彩夏](member/tsuchiya)   | B4    | a.tsuchiya |
 |[薮 茉莉花](member/yabu)        | B4    | marika.yabu |
-
-
+|[浅野 多聞](member/asano)       | B3    | t.asano |
+|[石田 真](member/ishida)      | B3    | m.ishida |
+|[須藤 嵩](member/sudo)        | B3    | t-sudo |
+|[前田 夏輝](member/maeda)       | B3    | n.maeda |
+|[山下 晃平](member/yamashita)   | B3    | yamashita |
 
 <!-- |[西山 優太](./nishiyama.html) | B4    | y.nishiyama | -->
 
