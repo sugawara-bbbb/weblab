@@ -7,6 +7,8 @@ layout: default
 電気通信大学・菅原研究室では，ソフトウェアとハードウェアの境界面にあるセキュリティ上の問題を研究しています．[﨑山・李研究室](http://sakiyama-lab.jp/)と共同で運営を行っています．また，暗号理論・情報理論から安全性を研究する[太田・岩本研究室](http://ohta-lab.jp/)とも協力をしています．大学院入学を希望される学外生は[こちら](https://www.uec.ac.jp/admission/open-graduate/tour.html)から申し込むか，メールでご連絡ください．
 
 # News
+- 2020/01/31: 高木くん，藤さん(M1)，薮さん(B4)が，[SCIS2020](https://www.iwsec.org/scis/2020/)で[発表]({% post_url news/2020-01-31-scis2020 %})しました
+
 - 2019/11/15: [研究室説明会・OPEN CAMPUS 2019@調布祭]({% post_url news/2019-11-15-openCampus2019Chofusai %})について
 
 - 2019/11/04: レーザーを用いて音声コマンドを挿入する攻撃 [Light Commands](https://lightcommands.com/index_jp.html) を公開しました. 
