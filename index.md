@@ -4,7 +4,7 @@ layout: default
 
 # 電気通信大学 菅原研究室
 
-電気通信大学・菅原研究室では，ソフトウェアとハードウェアの境界面にあるセキュリティ上の問題を研究しています．[﨑山・李研究室](http://sakiyama-lab.jp/)と共同で運営を行っています．また，暗号理論・情報理論から安全性を研究する[太田・岩本研究室](http://ohta-lab.jp/)とも協力をしています．大学院入学を希望される学外生は[こちら](https://www.uec.ac.jp/admission/open-graduate/tour.html)から申し込むか，メールでご連絡ください．
+電気通信大学・菅原研究室では，ソフトウェアとハードウェアの境界面にあるセキュリティ上の問題を研究しています．[﨑山・李研究室](http://sakiyama-lab.jp/) および [太田・岩本・渡邉研究室](http://ohta-lab.jp/)と協力をしています．大学院入学を希望される学外生は[こちら](https://www.uec.ac.jp/admission/open-graduate/tour.html)から申し込むか，メールでご連絡ください．
 
 # News
 - 2019/11/15: [研究室説明会・OPEN CAMPUS 2019@調布祭]({% post_url news/2019-11-15-openCampus2019Chofusai %})について
