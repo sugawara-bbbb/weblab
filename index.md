@@ -8,6 +8,8 @@ layout: default
 
 # News
 
+- 2020/04/20: 菅原が2019年夏に国際会議 CHES2019 で発表した動画が公開されていました: [Web](https://iacr.org/cryptodb/data/paper.php?pubkey=29049)．
+
 - 2020/03/13: 菅原が寄稿した暗号ハードウェアに関する解説論文が日本銀行ディスカッションペーパーシリーズから公開されました: [暗号ハードウェアの研究開発動向：フィジカリー・アンクローナブル・ファンクション](https://www.imes.boj.or.jp/research/abstracts/japanese/20-J-06.html). 
 
 - 2020/01/31: 高木くん，藤さん(M1)，薮さん(B4)が，[SCIS2020](https://www.iwsec.org/scis/2020/)で[発表]({% post_url news/2020-01-31-scis2020 %})しました
