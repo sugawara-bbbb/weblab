@@ -70,11 +70,12 @@ email: sugawara
 
 ## 委員など
 
-- Program committee, International Workshop on Security (IWSEC), 2013 and 2014.
+- Program committee, International Workshop on Security (IWSEC), 2013, 2014, and 2020.
 - Program committee, Smart Card Research and Advanced Application Conference (CARDIS), 2015 and 2016.
-- Program committee, Fault Diagnosis and Tolerance in Cryptography (FDTC), 2017 and 2018.
+- Program committee, Fault Diagnosis and Tolerance in Cryptography (FDTC), 2017, 2018, and 2020.
 - Program committee, Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2017 and 2018.
 - Program committee, Cryptographer’s track at RSA Conference 2019 (CT-RSA2019), 2019.
+- Program committee, Euromicro Conference on Digital System Design, special session on Architecture and Hardware for Security Applications (AHSA), 2020.
 
 ## 外部サイト
 
