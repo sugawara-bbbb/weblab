@@ -18,6 +18,9 @@ layout: default
 
 - 2020/01/31: 高木くん，藤さん(M1)，薮さん(B4)が，[SCIS2020](https://www.iwsec.org/scis/2020/)で[発表]({% post_url news/2020-01-31-scis2020 %})しました
 
+- 2019/12/27: 技術系 Youtube チャネル Smarter Every Day で Light Commands が紹介されました．
+<iframe width="390" height="250" src="https://www.youtube.com/embed/ozIKwGt38LQ?list=RDozIKwGt38LQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 - 2019/11/15: [研究室説明会・OPEN CAMPUS 2019@調布祭]({% post_url news/2019-11-15-openCampus2019Chofusai %})について
 
 - 2019/11/04: レーザーを用いて音声コマンドを挿入する攻撃 [Light Commands](https://lightcommands.com/index_jp.html) を公開しました. 
