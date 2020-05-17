@@ -8,9 +8,11 @@ layout: default
 
 # News
 
+- 2020/05/17: Eurocrypt 2020 が 5月11〜15日にオンライン開催され，菅原による発表の動画が公開されました: [Youtube](https://youtube.com/watch?v=9j242OfsImc)．
+
 - 2020/05/06: **講義について**: 菅原が担当する 2020 年度の「オペレーティングシステム」は遠隔講義として開講します．シラバスに記載された ID から参加してください．
 
-- 2020/04/20: 菅原が2019年夏に国際会議 CHES2019 で発表した動画が公開されていました: [Web](https://iacr.org/cryptodb/data/paper.php?pubkey=29049)．
+- 2020/04/20: 菅原が2019年夏に国際会議 CHES2019 で発表した動画が公開されていました: [Youtube](https://youtube.com/watch?v=Qm8MAauS0Rc)．
 
 - 2020/03/13: 菅原が寄稿した暗号ハードウェアに関する解説論文が日本銀行ディスカッションペーパーシリーズから公開されました: [暗号ハードウェアの研究開発動向：フィジカリー・アンクローナブル・ファンクション](https://www.imes.boj.or.jp/research/abstracts/japanese/20-J-06.html). 
 
