@@ -37,10 +37,10 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. T. Sugawara, T. Onuma, and Y. Li, "Signal Injection Attack on Time-to-Digital Converter and Its Application to Physically Unclonable Function," The 15th International Workshop on Security (IWSEC 2020), 2020.
+1. T. Sugawara, T. Onuma, and Y. Li, "Signal Injection Attack on Time-to-Digital Converter and Its Application to Physically Unclonable Function," The 15th International Workshop on Security (IWSEC 2020), 2020, [eprint](https://eprint.iacr.org/2020/716.pdf).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Lightweight Authenticated Encryption Mode Suitable for Threshold Implementation," Eurocrypt 2020, 2020, [PDF](https://eprint.iacr.org/2020/542.pdf).
 1. Y. Li, R. Hatano, S. Tada, K. Matsuda, N. Miura, T. Sugawara, and K. Sakiyama, "Side-Channel Leakage of Alarm Signal for a Bulk-Current-Based Laser Sensor," The 15th International Conference on Information Security and Cryptology (Inscrypt 2019), 2019.
-1. K. Matsuda, S. Tada, M. Nagata, Y. Li, T. Sugawara, M. Iwamoto, K. Ohta, K. Sakiyama, and N. Miura, “An Information Leakage Sensor Based on Measurement of Laser-Induced Opto-Electric Bulk Current Density,” International Conference on Solid State Devices and Materials (SSDM’19), (to appear).
+1. K. Matsuda, S. Tada, M. Nagata, Y. Li, T. Sugawara, M. Iwamoto, K. Ohta, K. Sakiyama, and N. Miura, “An Information Leakage Sensor Based on Measurement of Laser-Induced Opto-Electric Bulk Current Density,” International Conference on Solid State Devices and Materials (SSDM’19).
 1. N. Shoji, T. Sugawara, M. Iwamoto and K. Sakiyama, "An Abstraction Model for 1-bit Probing Attack on Block Ciphers," 2019 IEEE 4th International Conference on Computer and Communication Systems (ICCCS), 2019, pp. 502-506.
 1. R. Matsumura, T. Sugawara, and K. Sakiyama, "A Secure LiDAR with AES-Based Side-Channel Fingerprinting," 2018 Sixth International Symposium on Computing and Networking Workshops (CANDARW), 2018.
 1. Z. Yuan, Y.Li, K. Sakiyama, T. Sugawara, and J. Wang, “Recovering Memory Access Sequence with Differential Flush+Reload Attack,” The 14th International Conference on Information Security Practice and Experience (ISPEC 2018), pp. 424-439, 2018.
