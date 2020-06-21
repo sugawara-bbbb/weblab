@@ -2,7 +2,7 @@
 layout: member
 name: 石田 真
 roman: Makoto Ishida
-fig: /fig/ishida.jpeg
+fig: /fig/ishida.jpg
 grade: 学部3年
 email: m.ishida
 ---

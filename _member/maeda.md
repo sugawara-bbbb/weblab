@@ -2,7 +2,7 @@
 layout: member
 name: 前田 夏輝
 roman: Natsuki Maeda
-fig: /fig/maeda.jpeg
+fig: /fig/maeda.jpg
 grade: 学部3年
 email: n.maeda
 ---

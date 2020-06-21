@@ -2,7 +2,7 @@
 layout: member
 name: 山下 晃平
 roman: Kohei Yamashita
-fig: /fig/yamashita.jpeg
+fig: /fig/yamashita.jpg
 grade: 学部3年
 email: yamashita
 ---
