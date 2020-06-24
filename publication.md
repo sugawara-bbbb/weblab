@@ -37,6 +37,7 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
+1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: Laser-Based Audio Injection on Voice-Controllable Systems," USENIX Security Symposium 2020, 2020 (to appear), [arxiv](https://arxiv.org/pdf/2006.11946.pdf).
 1. T. Sugawara, T. Onuma, and Y. Li, "Signal Injection Attack on Time-to-Digital Converter and Its Application to Physically Unclonable Function," The 15th International Workshop on Security (IWSEC 2020), 2020, [eprint](https://eprint.iacr.org/2020/716.pdf).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Lightweight Authenticated Encryption Mode Suitable for Threshold Implementation," Eurocrypt 2020, 2020, [PDF](https://eprint.iacr.org/2020/542.pdf).
 1. Y. Li, R. Hatano, S. Tada, K. Matsuda, N. Miura, T. Sugawara, and K. Sakiyama, "Side-Channel Leakage of Alarm Signal for a Bulk-Current-Based Laser Sensor," The 15th International Conference on Information Security and Cryptology (Inscrypt 2019), 2019.
