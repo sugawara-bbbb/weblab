@@ -37,6 +37,8 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
+1. M. Yabu, K. Sakiyama, and T. Sugawara, "Low-Memory Implementation of Authenticated Encryption Algorithm SAEAES on ARM Cortex-M0 Microcontroller," GCCE 2020 (to appear).
+1. T. Takaki, Y. Li, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Sugawara, "An Optimized Implementation of AES-GCM for FPGA Acceleration Using High-Level Synthesis," GCCE 2020 (to appear).
 1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: Laser-Based Audio Injection on Voice-Controllable Systems," USENIX Security Symposium 2020, 2020 (to appear), [arxiv](https://arxiv.org/pdf/2006.11946.pdf).
 1. T. Sugawara, T. Onuma, and Y. Li, "Signal Injection Attack on Time-to-Digital Converter and Its Application to Physically Unclonable Function," The 15th International Workshop on Security (IWSEC 2020), 2020, [eprint](https://eprint.iacr.org/2020/716.pdf).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Lightweight Authenticated Encryption Mode Suitable for Threshold Implementation," Eurocrypt 2020, 2020, [PDF](https://eprint.iacr.org/2020/542.pdf).
