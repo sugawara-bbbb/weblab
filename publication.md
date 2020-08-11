@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. T. Sugawara, "Hardware Performance Evaluation of Authenticated Encryption SAEAES with Threshold Implementation," Cryptography, Special Issue on Side Channel and Fault Injection Attacks and Countermeasures," 2020 (to appear). 
 1. K. Matsuda, S. Tada, M. Nagata, Y. Komano, Y. Li, T. Sugawara, M. Iwamoto, K. Ohta, K. Sakiyama, N. Miura, "An IC-Level Countermeasure Against Laser Fault Injection Attack By Information Leakage Sensing Based on Laser-Induced Opto-Electric Bulk Current Density," Japanese Journal of Applied Physics, 59 SGGL02, 2020, [Web](https://iopscience.iop.org/article/10.7567/1347-4065/ab65d3).
 1. Y. Naito and T. Sugawara, "Lightweight Authenticated Encryption Mode of Operation for Tweakable Block Ciphers," IACR Trans. Cryptographic Hardware and Embedded Systems 2020(1), pp. 66-94, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/8393/7777).
 1. A. Toh, Y. Li, K. Sakiyama, and T. Sugawara, "Fingerprinting Light Emitting Diodes Using Spectrometer," IET Electronics Letters, 2019 [PDF](https://digital-library.theiet.org/content/journals/10.1049/el.2019.1908).
