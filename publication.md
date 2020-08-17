@@ -9,7 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
-1. T. Sugawara, "Hardware Performance Evaluation of Authenticated Encryption SAEAES with Threshold Implementation," Cryptography, Special Issue on Side Channel and Fault Injection Attacks and Countermeasures," 2020 (to appear). 
+1. T. Sugawara, "Hardware Performance Evaluation of Authenticated Encryption SAEAES with Threshold Implementation," Cryptography, Special Issue on Side Channel and Fault Injection Attacks and Countermeasures," 2020, [PDF](https://www.mdpi.com/2410-387X/4/3/23/pdf). 
 1. K. Matsuda, S. Tada, M. Nagata, Y. Komano, Y. Li, T. Sugawara, M. Iwamoto, K. Ohta, K. Sakiyama, N. Miura, "An IC-Level Countermeasure Against Laser Fault Injection Attack By Information Leakage Sensing Based on Laser-Induced Opto-Electric Bulk Current Density," Japanese Journal of Applied Physics, 59 SGGL02, 2020, [Web](https://iopscience.iop.org/article/10.7567/1347-4065/ab65d3).
 1. Y. Naito and T. Sugawara, "Lightweight Authenticated Encryption Mode of Operation for Tweakable Block Ciphers," IACR Trans. Cryptographic Hardware and Embedded Systems 2020(1), pp. 66-94, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/8393/7777).
 1. A. Toh, Y. Li, K. Sakiyama, and T. Sugawara, "Fingerprinting Light Emitting Diodes Using Spectrometer," IET Electronics Letters, 2019 [PDF](https://digital-library.theiet.org/content/journals/10.1049/el.2019.1908).
@@ -38,10 +38,11 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. M. Yabu, K. Sakiyama, and T. Sugawara, "Low-Memory Implementation of Authenticated Encryption Algorithm SAEAES on ARM Cortex-M0 Microcontroller," GCCE 2020 (to appear).
-1. T. Takaki, Y. Li, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Sugawara, "An Optimized Implementation of AES-GCM for FPGA Acceleration Using High-Level Synthesis," GCCE 2020 (to appear).
-1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: Laser-Based Audio Injection on Voice-Controllable Systems," USENIX Security Symposium 2020, 2020 (to appear), [arxiv](https://arxiv.org/pdf/2006.11946.pdf).
+1. G. Takatoi, T. Sugawara, K. Sakiyama, and Y. Li, "Simple Electromagnetic Analysis Against Activation Functions of Deep Neural Networks," 1st workshop on Artificial Intelligence in Hardware Security (AIHWS2020), 2020 (to appear).
+1. M. Yabu, K. Sakiyama, and T. Sugawara, "Low-Memory Implementation of Authenticated Encryption Algorithm SAEAES on ARM Cortex-M0 Microcontroller," IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020 (to appear).
+1. T. Takaki, Y. Li, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Sugawara, "An Optimized Implementation of AES-GCM for FPGA Acceleration Using High-Level Synthesis," IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020 (to appear).
 1. T. Sugawara, T. Onuma, and Y. Li, "Signal Injection Attack on Time-to-Digital Converter and Its Application to Physically Unclonable Function," The 15th International Workshop on Security (IWSEC 2020), 2020, [eprint](https://eprint.iacr.org/2020/716.pdf).
+1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: Laser-Based Audio Injection on Voice-Controllable Systems," USENIX Security Symposium 2020, 2020, [arxiv](https://arxiv.org/pdf/2006.11946.pdf).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Lightweight Authenticated Encryption Mode Suitable for Threshold Implementation," Eurocrypt 2020, 2020, [PDF](https://eprint.iacr.org/2020/542.pdf).
 1. Y. Li, R. Hatano, S. Tada, K. Matsuda, N. Miura, T. Sugawara, and K. Sakiyama, "Side-Channel Leakage of Alarm Signal for a Bulk-Current-Based Laser Sensor," The 15th International Conference on Information Security and Cryptology (Inscrypt 2019), 2019.
 1. K. Matsuda, S. Tada, M. Nagata, Y. Li, T. Sugawara, M. Iwamoto, K. Ohta, K. Sakiyama, and N. Miura, “An Information Leakage Sensor Based on Measurement of Laser-Induced Opto-Electric Bulk Current Density,” International Conference on Solid State Devices and Materials (SSDM’19).
