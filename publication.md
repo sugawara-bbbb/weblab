@@ -38,6 +38,7 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
+1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits," the Fourth Workshop on Attacks and Solutions in Hardware Security (ASHES 2020), 2020 (to appear).
 1. G. Takatoi, T. Sugawara, K. Sakiyama, and Y. Li, "Simple Electromagnetic Analysis Against Activation Functions of Deep Neural Networks," 1st workshop on Artificial Intelligence in Hardware Security (AIHWS2020), 2020 (to appear).
 1. M. Yabu, K. Sakiyama, and T. Sugawara, "Low-Memory Implementation of Authenticated Encryption Algorithm SAEAES on ARM Cortex-M0 Microcontroller," IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020 (to appear).
 1. T. Takaki, Y. Li, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Sugawara, "An Optimized Implementation of AES-GCM for FPGA Acceleration Using High-Level Synthesis," IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020 (to appear).
@@ -140,6 +141,7 @@ layout: default
 
 ## 講演・チュートリアル・パネルディスカッション等
 
+1. T. Sugawara, "Laser Injection Attacks on Integrated Circuits and Sensors," SPQR Laboratory Embedded Security Workshop, 2020 (invited).
 1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: Laser-Based Audio Injection on Voice-Controllable Systems," 2019, [Web](https://lightcommands.com).
 1. Y. Naito, M. Matsui, Y. Sakai, D. Suzuki, K. Sakiyama, T. Sugawara, "SAEAES," a Round-1 Candidate of the NIST Lightweight Cryptography project, [PDF](https://csrc.nist.gov/CSRC/media/Projects/Lightweight-Cryptography/documents/round-1/spec-doc/SAEAES-spec.pdf).
 1. Y. Naito and T. Sugawara, "Lightweight Authenticated Encryption Mode of Operation for Tweakable Block Ciphers," Cryptology ePrint Archive: Report 2019/339.
