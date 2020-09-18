@@ -141,6 +141,7 @@ layout: default
 
 ## 講演・チュートリアル・パネルディスカッション等
 
+1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: レーザーを用いて音声コマンドを挿入する攻撃," 暗号と情報セキュリティワークショップ2020, 2020.
 1. T. Sugawara, "Laser Injection Attacks on Integrated Circuits and Sensors," SPQR Laboratory Embedded Security Workshop, 2020 (invited).
 1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: Laser-Based Audio Injection on Voice-Controllable Systems," 2019, [Web](https://lightcommands.com).
 1. Y. Naito, M. Matsui, Y. Sakai, D. Suzuki, K. Sakiyama, T. Sugawara, "SAEAES," a Round-1 Candidate of the NIST Lightweight Cryptography project, [PDF](https://csrc.nist.gov/CSRC/media/Projects/Lightweight-Cryptography/documents/round-1/spec-doc/SAEAES-spec.pdf).
