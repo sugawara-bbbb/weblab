@@ -95,6 +95,7 @@ layout: default
 
 ## 学会口頭発表（査読なし，2017年〜）
 
+1. 山下晃平, 李陽, 菅原健, "Time-to-Digital Converter へのシグナルインジェクションによるPUFステート復元攻撃の難易度評価," IEICE 2020年ソサイエティ大会, 2020.
 1. T. Ono, T. Sugawara, T. Mori, "Adversarial Attacks against Electrocardiograms," ICSS.
 1. 土屋彩夏, 藤聡子, 李陽, 崎山一男, 菅原健, "LEDの個体識別における温度変化の影響," ICSS.
 1. 内藤祐介, 菅原健, "Tweakable ブロック暗号を用いた軽量な認証暗号," 2020年暗号と情報セキュリティシンポジウム(SCIS2020), 2E5-1, 8 pages, (Jan., 2020).

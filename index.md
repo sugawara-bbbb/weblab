@@ -8,6 +8,8 @@ layout: default
 
 # News
 
+- 2020/09/17: B4 の山下君がソサイエティ大会で PUF の安全性評価に関する発表を行いました．
+
 - 2020/09/14: Conference on Cryptographic Hardware and Embedded Systems (CHES) がオンライン開催され，菅原による発表の動画が公開されました: [Youtube](https://youtu.be/4qBQykARnZU)．
 
 - 2020/05/17: Eurocrypt 2020 が 5月11〜15日にオンライン開催され，菅原による発表の動画が公開されました: [Youtube](https://youtube.com/watch?v=9j242OfsImc)．
