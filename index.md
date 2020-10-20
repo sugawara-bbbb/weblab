@@ -8,6 +8,10 @@ layout: default
 
 # News
 
+- 2020/10/20: 菅原が寄稿した暗号ハードウェアに関する解説論文が日本銀行金融研究所「金融研究」誌で公開されました: [暗号ハードウェアの研究開発動向：フィジカリー・アンクローナブル・ファンクション](https://www.imes.boj.or.jp/research/papers/japanese/kk39-4-2.pdf). 
+
+- 2020/10/13: 国際会議 IEEE 9th Global Conference on Consumer Electronics (GCCE 2020) にて，M2 の高木くんと M1 の藪さんが研究発表を行いました．
+
 - 2020/09/17: B4 の山下君がソサイエティ大会で PUF の安全性評価に関する発表を行いました．
 
 - 2020/09/14: Conference on Cryptographic Hardware and Embedded Systems (CHES) がオンライン開催され，菅原による発表の動画が公開されました: [Youtube](https://youtu.be/4qBQykARnZU)．
@@ -21,8 +25,6 @@ layout: default
 - 2020/04/20: 菅原が2019年夏に国際会議 CHES2019 で発表した動画が公開されていました: [Youtube](https://youtube.com/watch?v=Qm8MAauS0Rc)．
 
 - 2020/3/25: 電気通信大学の[卒業式]({% post_url news/2020-03-25-r02graduation %})が行われました。薮さん(B4)が目黒会賞、藤さん(M1)が学生表彰されました。
-
-- 2020/03/13: 菅原が寄稿した暗号ハードウェアに関する解説論文が日本銀行ディスカッションペーパーシリーズから公開されました: [暗号ハードウェアの研究開発動向：フィジカリー・アンクローナブル・ファンクション](https://www.imes.boj.or.jp/research/abstracts/japanese/20-J-06.html). 
 
 - 2020/01/31: 高木くん，藤さん(M1)，薮さん(B4)が，[SCIS2020](https://www.iwsec.org/scis/2020/)で[発表]({% post_url news/2020-01-31-scis2020 %})しました
 
