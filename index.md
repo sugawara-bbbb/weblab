@@ -8,6 +8,10 @@ layout: default
 
 # News
 
+- 2020/10/28 コンピュータセキュリティシンポジウム 2020 が開催され，菅原と，B4 の山下君が講演を行いました．以下は菅原の講演の動画です．
+
+<iframe src="https://drive.google.com/file/d/1E0Q7sxbFTKh8J_cgMDk_UWT-J4TFDD9A/preview" width="390" height="250"></iframe>
+
 - 2020/10/20: 菅原が寄稿した暗号ハードウェアに関する解説論文が日本銀行金融研究所「金融研究」誌で公開されました: [暗号ハードウェアの研究開発動向：フィジカリー・アンクローナブル・ファンクション](https://www.imes.boj.or.jp/research/papers/japanese/kk39-4-2.pdf). 
 
 - 2020/10/13: 国際会議 IEEE 9th Global Conference on Consumer Electronics (GCCE 2020) にて，M2 の高木くんと M1 の藪さんが研究発表を行いました．
