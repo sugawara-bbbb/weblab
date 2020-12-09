@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "LM-DAE: Low Memory Deterministic Authenticated Encryption for 128-bit Security," IACR Trans. Symmetric Cryptology, to appear.
 1. T. Sugawara, "Hardware Performance Evaluation of Authenticated Encryption SAEAES with Threshold Implementation," Cryptography, Special Issue on Side Channel and Fault Injection Attacks and Countermeasures," 2020, [PDF](https://www.mdpi.com/2410-387X/4/3/23/pdf). 
 1. K. Matsuda, S. Tada, M. Nagata, Y. Komano, Y. Li, T. Sugawara, M. Iwamoto, K. Ohta, K. Sakiyama, N. Miura, "An IC-Level Countermeasure Against Laser Fault Injection Attack By Information Leakage Sensing Based on Laser-Induced Opto-Electric Bulk Current Density," Japanese Journal of Applied Physics, 59 SGGL02, 2020, [Web](https://iopscience.iop.org/article/10.7567/1347-4065/ab65d3).
 1. Y. Naito and T. Sugawara, "Lightweight Authenticated Encryption Mode of Operation for Tweakable Block Ciphers," IACR Trans. Cryptographic Hardware and Embedded Systems 2020(1), pp. 66-94, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/8393/7777).
