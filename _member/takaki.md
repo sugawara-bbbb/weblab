@@ -20,6 +20,12 @@ email: t.takaki
 - 2019/03, 電気通信大学　情報理工学部　総合情報学科　卒業
 - 2019/04, 電気通信大学大学院　情報理工学研究科　情報学専攻　入学
 
+## 国際会議プロシーディングス等（査読あり）
+
+- T. Takaki, Y. Li, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Sugawara, 
+“An Optimized Implementation of AES-GCM for FPGA Acceleration Using High-Level Synthesis,”
+IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020 (to appear).
+
 ## 学会口頭発表（査読なし）
 
 - 高木翼，李陽，崎山一男，菅原健，梨本翔永，鈴木大輔，
