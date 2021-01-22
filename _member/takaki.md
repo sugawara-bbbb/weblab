@@ -36,6 +36,11 @@ IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020 (to appear)
   "FPGAを用いた秘匿アクセラレーションの実装評価,"
   2020年暗号と情報セキュリティシンポジウム(SCIS2020),
   3C3-1, 7 pages, (Jan., 2020).
+- 高木翼,李陽,崎山一男,菅原健,梨本翔永,鈴木大輔,
+  "FPGAを用いた秘匿アクセラレーションの実装評価（II）,"
+  2021年暗号と情報セキュリティシンポジウム(SCIS2021),
+  4D1-3, 7 pages, (Jan., 2021).
+
 
 ## その他
 
