@@ -19,6 +19,9 @@ email: marika.yabu
 
 ## List of Publication
 
+### 国際会議プロシーディングス等（査読あり）
+- M. Yabu, K. Sakiyama, and T. Sugawara, “Low-Memory Implementation of Authenticated Encryption Algorithm SAEAES on ARM Cortex-M0 Microcontroller,” IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020 (to appear).
+
 ### 学会口頭発表(査読なし)
 - 薮茉莉花, 崎山一男, 菅原健, “ARM Cortex-M0におけるAES暗号化処理の小型実装,” IEICE2019年ソサイエティ大会, (Sep., 2019).
 - 薮茉莉花, 崎山一男, 菅原健, “ARM Cortex-M0におけるSAEAESの小型実装,” 2020年暗号と情報セキュリティシンポジウム(SCIS2020), 2B3-4, 6 pages, (Jan., 2020).
