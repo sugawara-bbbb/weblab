@@ -96,6 +96,12 @@ layout: default
 
 ## 学会口頭発表（査読なし，2017年〜）
 
+1. 汐﨑充, 菅原健, 藤野毅, "トランジスタの残留電荷がサイドチャネルリークに及ぼす影響," 2021年暗号と情報セキュリティシンポジウム (SCIS2021), 2D1-1, 2021.
+1. 浅野多聞, 菅原健, "ALU内部のビット非独立なリーケージのシミュレーション評価," 2021年暗号と情報セキュリティシンポジウム (SCIS2021), 2D1-2, 2021.
+1. 工藤黎, 菅原健, 崎山一男, 原祐子, 李陽, "サイドチャネル攻撃の並列実装におけるシステムノイズの評価: 遺伝的アルゴリズムとの比較," 2021年暗号と情報セキュリティシンポジウム (SCIS2021), 2D1-3, 2021.
+1. G. Takatoi, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, Y. Li, "Pushing the Limits of Simple Electromagnetic Analysis Against Similar Activation Functions," 2021年暗号と情報セキュリティシンポジウム (SCIS2021), 2D3-5, 2021.
+1. 汐﨑充, 菅原健, 藤野毅, "トランジスタの残留電荷が Physically Unclonable Function に及ぼす影響," 2021年暗号と情報セキュリティシンポジウム (SCIS2021), 3D3-2, 2021.
+1. 高木翼, 李陽, 崎山一男, 菅原健, 梨本翔永, 鈴木大輔, "FPGAを用いた秘匿アクセラレーションの実装評価 (II)," 2021年暗号と情報セキュリティシンポジウム (SCIS2021), 4D1-3, 2021.
 1. 菅原 健, シア ベンジャミン, ランパッジ サラ, ゲンキン ダニエル, フー ケビン,  "ライトコマンド: レーザーを用いて音声コマンドを挿入する攻撃" コンピュータセキュリティシンポジウム2020, 2B2-4, 2020.
 1. 山下晃平, 李陽, 菅原健, "TDCの操作によるPUFステート復元攻撃の難易度評価のためのシミュレーション,", コンピュータセキュリティシンポジウム2020, 3D2-4, 2020.
 1. 山下晃平, 李陽, 菅原健, "Time-to-Digital Converter へのシグナルインジェクションによるPUFステート復元攻撃の難易度評価," IEICE 2020年ソサイエティ大会, 2020.
@@ -145,6 +151,7 @@ layout: default
 
 ## 講演・チュートリアル・パネルディスカッション等
 
+1. 菅原健, "ライトコマンド: レーザー照射により音声コマンド を挿入する攻撃," 第5回 IoT セキュリティフォーラム, 2020.
 1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: レーザーを用いて音声コマンドを挿入する攻撃," 暗号と情報セキュリティワークショップ2020, 2020.
 1. T. Sugawara, "Laser Injection Attacks on Integrated Circuits and Sensors," SPQR Laboratory Embedded Security Workshop, 2020 (invited).
 1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: Laser-Based Audio Injection on Voice-Controllable Systems," 2019, [Web](https://lightcommands.com).
