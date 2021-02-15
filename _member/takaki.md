@@ -24,7 +24,7 @@ email: t.takaki
 
 - T. Takaki, Y. Li, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Sugawara, 
 “An Optimized Implementation of AES-GCM for FPGA Acceleration Using High-Level Synthesis,”
-IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020 (to appear).
+IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020, pp. 249-253.
 
 ## 学会口頭発表（査読なし）
 
