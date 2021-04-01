@@ -3,7 +3,7 @@ layout: member
 name: 土井 康平
 roman: Kohei Doi
 fig: /fig/doi.jpg
-grade: 学部3年
+grade: 学部4年
 email: koheidoi
 ---
 

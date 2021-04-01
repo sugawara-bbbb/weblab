@@ -3,7 +3,7 @@ layout: member
 name: 清水 勇太
 roman: Yuta Shimizu
 fig: /fig/shimizu.jpg
-grade: 学部3年
+grade: 学部4年
 email: y.shimizu
 ---
 

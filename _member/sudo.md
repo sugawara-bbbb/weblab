@@ -3,7 +3,7 @@ layout: member
 name: 須藤 嵩
 roman: Takashi Sudo
 fig: /fig/sudo.jpg
-grade: 学部3年
+grade: 学部4年
 email: t-sudo
 ---
 

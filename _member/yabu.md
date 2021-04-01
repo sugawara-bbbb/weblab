@@ -3,7 +3,7 @@ layout: member
 name: 薮 茉莉花
 roman: Marika Yabu
 fig: /fig/yabu.jpeg
-grade: 学部4年
+grade: 修士2年
 email: marika.yabu
 ---
 

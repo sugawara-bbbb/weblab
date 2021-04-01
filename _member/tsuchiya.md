@@ -3,7 +3,7 @@ layout: member
 name: 土屋 彩夏
 roman: Ayaka Tsuchiya
 fig: /fig/tsuchiya.jpg
-grade: 学部4年
+grade: 修士2年
 email: a.tsuchiya
 ---
 

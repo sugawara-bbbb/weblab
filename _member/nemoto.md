@@ -3,7 +3,7 @@ layout: member
 name: 根本 昌也
 roman: Masaya Nemoto
 fig: /fig/nemoto.jpg
-grade: 学部3年
+grade: 学部4年
 email: m.nemoto
 ---
 

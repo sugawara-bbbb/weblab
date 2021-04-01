@@ -3,7 +3,7 @@ layout: member
 name: 金 剛山
 roman: Kangsan Kim 
 fig: /fig/kim.jpg
-grade: 学部3年
+grade: 学部4年
 email: ks.kim
 ---
 
