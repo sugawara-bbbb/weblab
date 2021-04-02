@@ -19,8 +19,8 @@ layout: default
 |[土屋 彩夏](member/tsuchiya)  | M2         | a.tsuchiya  |
 |[薮 茉莉花](member/yabu)      | M2         | marika.yabu |
 |[浅野 多聞](member/asano)     | M1         | t.asano     |
-|[須藤 嵩](member/sudo)        | B4         | t-sudo      |
 |[山下 晃平](member/yamashita) | M1         | yamashita   |
+|[須藤 嵩](member/sudo)        | B4         | t-sudo      |
 |[金 剛山](member/kim)         | B4         | ks.kim      |
 |[清水 勇太](member/shimizu)   | B4         | y.shimizu   |
 |[田中 樹](member/tanaka)      | B4         | t.tanaka    |
