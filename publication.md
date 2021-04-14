@@ -9,7 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
-1. Y. Naito, Y. Sasaki, and T. Sugawara, "LM-DAE: Low Memory Deterministic Authenticated Encryption for 128-bit Security," IACR Trans. Symmetric Cryptology, to appear.
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "LM-DAE: Low Memory Deterministic Authenticated Encryption for 128-bit Security," IACR Trans. Symmetric Cryptology, 2020, [PDF](https://tosc.iacr.org/index.php/ToSC/article/view/8746).
 1. T. Sugawara, "Hardware Performance Evaluation of Authenticated Encryption SAEAES with Threshold Implementation," Cryptography, Special Issue on Side Channel and Fault Injection Attacks and Countermeasures," 2020, [PDF](https://www.mdpi.com/2410-387X/4/3/23/pdf). 
 1. K. Matsuda, S. Tada, M. Nagata, Y. Komano, Y. Li, T. Sugawara, M. Iwamoto, K. Ohta, K. Sakiyama, N. Miura, "An IC-Level Countermeasure Against Laser Fault Injection Attack By Information Leakage Sensing Based on Laser-Induced Opto-Electric Bulk Current Density," Japanese Journal of Applied Physics, 59 SGGL02, 2020, [Web](https://iopscience.iop.org/article/10.7567/1347-4065/ab65d3).
 1. Y. Naito and T. Sugawara, "Lightweight Authenticated Encryption Mode of Operation for Tweakable Block Ciphers," IACR Trans. Cryptographic Hardware and Embedded Systems 2020(1), pp. 66-94, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/8393/7777).
@@ -39,9 +39,9 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits," the Fourth Workshop on Attacks and Solutions in Hardware Security (ASHES 2020), 2020 (to appear).
-1. G. Takatoi, T. Sugawara, K. Sakiyama, and Y. Li, "Simple Electromagnetic Analysis Against Activation Functions of Deep Neural Networks," 1st workshop on Artificial Intelligence in Hardware Security (AIHWS2020), 2020 (to appear).
-1. M. Yabu, K. Sakiyama, and T. Sugawara, "Low-Memory Implementation of Authenticated Encryption Algorithm SAEAES on ARM Cortex-M0 Microcontroller," IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020, pp. 254-258.
+1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits," the Fourth Workshop on Attacks and Solutions in Hardware Security (ASHES 2020), pp. 57--66, 2020 [PDF](https://dl.acm.org/doi/10.1145/3411504.3421210).
+1. G. Takatoi, T. Sugawara, K. Sakiyama, and Y. Li, "Simple Electromagnetic Analysis Against Activation Functions of Deep Neural Networks," 1st workshop on Artificial Intelligence in Hardware Security (AIHWS2020), pp. 181--197, 2020.
+1. M. Yabu, K. Sakiyama, and T. Sugawara, "Low-Memory Implementation of Authenticated Encryption Algorithm SAEAES on ARM Cortex-M0 Microcontroller," IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), pp. 254-258, 2020.
 1. T. Takaki, Y. Li, K. Sakiyama, S. Nashimoto, D. Suzuki, and T. Sugawara, "An Optimized Implementation of AES-GCM for FPGA Acceleration Using High-Level Synthesis," IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), 2020, pp. 249-253.
 1. T. Sugawara, T. Onuma, and Y. Li, "Signal Injection Attack on Time-to-Digital Converter and Its Application to Physically Unclonable Function," The 15th International Workshop on Security (IWSEC 2020), 2020, [eprint](https://eprint.iacr.org/2020/716.pdf).
 1. T. Sugawara, B. Cyr, S. Rampazzi, D. Genkin, and K. Fu, "Light Commands: Laser-Based Audio Injection on Voice-Controllable Systems," USENIX Security Symposium 2020, 2020, [arxiv](https://arxiv.org/pdf/2006.11946.pdf).
