@@ -4,7 +4,6 @@ layout: default
 
 # メンバー
 
-![member](/fig/member.jpg){:width="70%"}
 
 ### 教員
 
