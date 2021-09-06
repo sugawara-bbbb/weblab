@@ -41,6 +41,8 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
+1. B. Cyr, T. Sugawara, and K. Fu, ``Why Lasers Inject Perceived Sound Into MEMS Microphones: Indications and Contraindications of Photoacoustic and Photoelectric Effects,’’ IEEE Sensors 2021, October 2021, to appear.
+1. T. Asano and T. Sugawara, "Simulation Based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V Processor," PROOFS 2021, 2021.
 1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits," the Fourth Workshop on Attacks and Solutions in Hardware Security (ASHES 2020), pp. 57--66, 2020 [PDF](https://dl.acm.org/doi/10.1145/3411504.3421210).
 1. G. Takatoi, T. Sugawara, K. Sakiyama, and Y. Li, "Simple Electromagnetic Analysis Against Activation Functions of Deep Neural Networks," 1st workshop on Artificial Intelligence in Hardware Security (AIHWS2020), pp. 181--197, 2020.
 1. M. Yabu, K. Sakiyama, and T. Sugawara, "Low-Memory Implementation of Authenticated Encryption Algorithm SAEAES on ARM Cortex-M0 Microcontroller," IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), pp. 254-258, 2020.
