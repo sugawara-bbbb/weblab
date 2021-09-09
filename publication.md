@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. Y. Long, S. Rampazzi, T. Sugawara, and K. Fu, ``Protecting COVID-19 Vaccine Transportation and Storage from Analog Cybersecurity Threats,’’ AAMI Biomedical Instrumentation & Technology 2021, pp. 29—34, 2021.
 1. 藤聡子, 土屋彩夏, 李陽, 崎山一男, 菅原健, "分光スペクトルを用いた調光機能のある白色 LED の個体識別, 情報処理学会論文誌 Vol. 62 No. 9, pp. 1–11 (Sep. 2021).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "AES-LBBB: AES Mode for Lightweight and BBB-Secure Authenticated Encryption," IACR Trans. Cryptographic Hardware and Embedded Systems 2021(3), pp. 298-333, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/8976).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "LM-DAE: Low Memory Deterministic Authenticated Encryption for 128-bit Security," IACR Trans. Symmetric Cryptology, 2020, [PDF](https://tosc.iacr.org/index.php/ToSC/article/view/8746).
