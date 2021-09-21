@@ -1,7 +1,7 @@
 ---
 layout: member
 name: 金 剛山
-roman: Kangsan Kim 
+roman: Kangsan Kim
 fig: /fig/kim.jpg
 grade: 学部4年
 email: ks.kim
@@ -19,3 +19,4 @@ email: ks.kim
 ## List of Publication
 
 ### 学会口頭発表(査読なし)
+- 金剛山, 菅原健, "ARMv8-MマイクロコントローラにおけるAESコプロセッサの性能評価," IEICE 2021年ソサイエティ大会, 2021.
