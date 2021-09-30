@@ -42,6 +42,7 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
+1. Y. Naito, Y. Sasaki, and T. Sugawara, ``Double-Block-Length Hash Function for Minimum Memory Size,’’ Asiacrypt 2021, to appear.
 1. B. Cyr, T. Sugawara, and K. Fu, ``Why Lasers Inject Perceived Sound Into MEMS Microphones: Indications and Contraindications of Photoacoustic and Photoelectric Effects,’’ IEEE Sensors 2021, October 2021, to appear.
 1. T. Asano and T. Sugawara, "Simulation Based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V Processor," PROOFS 2021, 2021.
 1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits," the Fourth Workshop on Attacks and Solutions in Hardware Security (ASHES 2020), pp. 57--66, 2020 [PDF](https://dl.acm.org/doi/10.1145/3411504.3421210).
