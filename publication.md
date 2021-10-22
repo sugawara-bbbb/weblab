@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. G. Takami, T. Sugawara, K. Sakiyama, and Y. Li, “Mixture-Based 5-Round Physical Attack against AES: Attack Proposal and Noise Evaluation, ” IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol.E105-A, No.3, pp.XXX-YYY, (to appear in Mar. 2022).
 1. Y. Long, S. Rampazzi, T. Sugawara, and K. Fu, ``Protecting COVID-19 Vaccine Transportation and Storage from Analog Cybersecurity Threats,’’ AAMI Biomedical Instrumentation & Technology 2021, pp. 29—34, 2021.
 1. 藤聡子, 土屋彩夏, 李陽, 崎山一男, 菅原健, "分光スペクトルを用いた調光機能のある白色 LED の個体識別, 情報処理学会論文誌 Vol. 62 No. 9, pp. 1–11 (Sep. 2021).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "AES-LBBB: AES Mode for Lightweight and BBB-Secure Authenticated Encryption," IACR Trans. Cryptographic Hardware and Embedded Systems 2021(3), pp. 298-333, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/8976).
@@ -42,6 +43,7 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
+1. R. Kudo, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li “Revisiting System Noise in Side-Channel Attacks: Mutual Assistant SCA vs. Genetic Algorithm” in Asian Hardware Oriented Security and Trust Symposium (AsianHOST’21), (to appear in Dec., 2021).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, ``Double-Block-Length Hash Function for Minimum Memory Size,’’ Asiacrypt 2021, to appear.
 1. B. Cyr, T. Sugawara, and K. Fu, ``Why Lasers Inject Perceived Sound Into MEMS Microphones: Indications and Contraindications of Photoacoustic and Photoelectric Effects,’’ IEEE Sensors 2021, October 2021, to appear.
 1. T. Asano and T. Sugawara, "Simulation Based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V Processor," PROOFS 2021, 2021.
