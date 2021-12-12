@@ -25,5 +25,9 @@ layout: default
 |[田中 樹](member/tanaka)      | B4         | t.tanaka    |
 |[土井 康平](member/doi)       | B4         | koheidoi    |
 |[根本 昌也](member/nemoto)    | B4         | m.nemoto    |
+|[稲川 マリエ](member/inagawa) | B3         | marie.inagawa |
+|[岡本 湖太郎](member/okamoto) | B3         | k.okamoto   |
+|[平賀 幸仁](member/hiraga)    | B3         | yukihito.hiraga |
+|[福島 詩生子](member/fukushima)| B3        | s.fukushima |
 
 [back](./)
