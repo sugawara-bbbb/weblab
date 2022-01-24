@@ -7,6 +7,7 @@ layout: default
 電気通信大学・菅原研究室では，ソフトウェアとハードウェアの境界面にあるセキュリティ上の問題を研究しています．[﨑山・宮原研究室](http://sakiyama-lab.jp/)，[李研究室](http://www.uec-li-lab.com)，および [岩本・渡邉研究室](https://iw-lab.jp)と協力をしています．大学院入学を希望される学外生は[こちら](https://www.uec.ac.jp/admission/open-graduate/tour.html)から申し込むか，メールでご連絡ください．
 
 # News
+- 2022/01/21: M1 の浅野君，B4 の金君，田中君，土井君が[SCIS2022](http://www.iwsec.org/scis2022/)で発表を行いました．
 
 - 2021/09/17: B4 の金君，田中君，土井君が[ソサイエティ大会](http://www.ieice-taikai.jp/2021society/jpn/)で発表を行いました．
 

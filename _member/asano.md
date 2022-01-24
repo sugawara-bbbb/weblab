@@ -17,8 +17,9 @@ email: t.asano
 
 
 ## List of Publication
-- T. Asano and T. Sugawara, "Simulation Based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V Processor," PROOFS 2021, 2021.
 ### 国際会議プロシーディングス等（査読あり）
+- T. Asano and T. Sugawara, "Simulation Based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V Processor," PROOFS 2021, 2021.
 
 ### 学会口頭発表(査読なし)
 - 浅野多聞, 菅原健, "ALU内部のビット非独立なリーケージのシミュレーション評価," 2021年暗号と情報セキュリティシンポジウム(SCIS2021), 2D1-2, 8 pages, (Jan., 2021).
+- 浅野多聞, 菅原健, "バレルシフタと加算器によるビット非独立なサイドチャネルリークの発生機序とその対策," 2022年暗号と情報セキュリティシンポジウム (SCIS2022), 2C2-3, 2022.
