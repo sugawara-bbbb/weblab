@@ -3,7 +3,7 @@ layout: member
 name: 岡本 湖太郎
 roman: Kotaro Okamoto
 fig: /fig/okamoto.JPG
-grade: 学部3年
+grade: 学部4年
 email: k.okamoto
 ---
 

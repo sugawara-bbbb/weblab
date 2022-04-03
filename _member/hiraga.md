@@ -3,7 +3,7 @@ layout: member
 name: 平賀 幸仁
 roman: Yukihito Hiraga
 fig: /fig/hiraga.jpg
-grade: 学部3年
+grade: 学部4年
 email: yukihito.hiraga
 ---
 

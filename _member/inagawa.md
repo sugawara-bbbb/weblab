@@ -3,7 +3,7 @@ layout: member
 name: 稲川 マリエ
 roman: Marie Inagawa
 fig: /fig/inagawa.JPG
-grade: 学部3年
+grade: 学部4年
 email: marie.inagawa
 ---
 

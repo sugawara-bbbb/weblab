@@ -3,7 +3,7 @@ layout: member
 name: 福島 詩生子
 roman: Shuko Fukushima
 fig: /fig/fukushima.jpg
-grade: 学部3年
+grade: 学部4年
 email: s.fukushima
 ---
 

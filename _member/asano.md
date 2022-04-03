@@ -3,7 +3,7 @@ layout: member
 name: 浅野 多聞
 roman: Tamon Asano
 fig: /fig/asano.jpg
-grade: 修士1年
+grade: 修士2年
 email: t.asano
 ---
 

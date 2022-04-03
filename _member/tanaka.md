@@ -3,7 +3,7 @@ layout: member
 name: 田中 樹
 roman: Tatsuki Tanaka
 fig: /fig/tanaka.jpg
-grade: 学部4年
+grade: 修士1年
 email: t.tanaka
 ---
 
