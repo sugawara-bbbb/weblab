@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. G. Takatoi, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li, "The Limits of SEMA on Distinguishing Similar Activation Functions of Embedded Deep Neural Networks," Applied Sciences, Special Issue on Side Channel Attacks in Embedded Systems, 2022.
 1. G. Takami, T. Sugawara, K. Sakiyama, and Y. Li, “Mixture-Based 5-Round Physical Attack against AES: Attack Proposal and Noise Evaluation, ” IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol.E105-A, No.3, pp.XXX-YYY, (to appear in Mar. 2022).
 1. Y. Long, S. Rampazzi, T. Sugawara, and K. Fu, ``Protecting COVID-19 Vaccine Transportation and Storage from Analog Cybersecurity Threats,’’ AAMI Biomedical Instrumentation & Technology 2021, pp. 29—34, 2021, [Web](https://meridian.allenpress.com/bit/article/55/3/112/469795/).
 1. 藤聡子, 土屋彩夏, 李陽, 崎山一男, 菅原健, "分光スペクトルを用いた調光機能のある白色 LED の個体識別, 情報処理学会論文誌 Vol. 62 No. 9, pp. 1–11 (Sep. 2021).
