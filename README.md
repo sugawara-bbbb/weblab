@@ -9,22 +9,15 @@ gem 'rdiscount'
 ```
 docker compose up -d
 ```
-- dockerコンテナのIPアドレスを調べる
-```
-# コンテナIDを調べる
-docker ps
-# コンテナのIPアドレスを調べる
-docker inspect ${CONTAINER_ID} | grep grep '\"IPAddress\":'
-```
 
 - ビルドと起動
 ```
 bundle install
 # --force_polling でファイルが変更されたら自動でビルドされる
-bundle exec jekyll serve --force_polling --${CONTAINER_IP_ADDRESS} --port 5555
+bundle exec jekyll serve --force_polling --host 0.0.0.0 --port 5555
 ```
 
-- ブラウザからアクセス
+- ローカルのブラウザから `http://0.0.0.0:5555` にアクセス
 
 ビルドが走ったら、ブラウザを更新する
 
