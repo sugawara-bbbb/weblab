@@ -44,7 +44,7 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. Y. Naito, Y. Sasaki, and T. Sugawara, ``Secret Can Be Public: Low-Memory AEAD Mode for High-Order Masking,’’ Crypto 2021, to appear.
+1. Y. Naito, Y. Sasaki, and T. Sugawara, ``Secret Can Be Public: Low-Memory AEAD Mode for High-Order Masking,’’ Crypto 2022, to appear.
 1. R. Kudo, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li “Revisiting System Noise in Side-Channel Attacks: Mutual Assistant SCA vs. Genetic Algorithm” in Asian Hardware Oriented Security and Trust Symposium (AsianHOST’21), (to appear in Dec., 2021).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, ``Double-Block-Length Hash Function for Minimum Memory Size,’’ Asiacrypt 2021, to appear.
 1. B. Cyr, T. Sugawara, and K. Fu, ``Why Lasers Inject Perceived Sound Into MEMS Microphones: Indications and Contraindications of Photoacoustic and Photoelectric Effects,’’ IEEE Sensors 2021, October 2021, to appear.
