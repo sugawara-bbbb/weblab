@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. K.Yamashita, B. Cyr, K. Fu, W. Burleson, and T. Sugawara, "Redshift: Manipulating Signal Propagation Delay via Continuous-Wave Lasers," IACR Trans. Cryptographic Hardware and Embedded Systems 2022(4), to appear.
 1. G. Takatoi, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li, "The Limits of SEMA on Distinguishing Similar Activation Functions of Embedded Deep Neural Networks," Applied Sciences, Special Issue on Side Channel Attacks in Embedded Systems, 2022.
 1. G. Takami, T. Sugawara, K. Sakiyama, and Y. Li, “Mixture-Based 5-Round Physical Attack against AES: Attack Proposal and Noise Evaluation, ” IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol.E105-A, No.3, pp.XXX-YYY, (to appear in Mar. 2022).
 1. Y. Long, S. Rampazzi, T. Sugawara, and K. Fu, ``Protecting COVID-19 Vaccine Transportation and Storage from Analog Cybersecurity Threats,’’ AAMI Biomedical Instrumentation & Technology 2021, pp. 29—34, 2021, [Web](https://meridian.allenpress.com/bit/article/55/3/112/469795/).
