@@ -78,8 +78,11 @@ email: sugawara
 - Program committee, Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2017 and 2018.
 - Program committee, Cryptographer’s track at RSA Conference 2019 (CT-RSA2019), 2019.
 - Program committee, Euromicro Conference on Digital System Design, special session on Architecture and Hardware for Security Applications (AHSA), 2020--2022.
-- Program committee, Cryptographic Hardware and Embedded Systems (CHES) 2020--2022.
+- Program committee, Cryptographic Hardware and Embedded Systems (CHES) 2020--2023.
 - Program committee, International Workshop on Artificial Intelligence and Industrial Internet-of-Things Security (AIOTS), 2021.
+- プログラム委員, コンピュータセキュリティシンポジウム (CSS), 2021, 2022.
+- 実行委員，暗号と情報セキュリティシンポジウム (SCIS), 2019.
+- 幹事補佐, 情報通信システムセキュリティ研究専門委員会 (ICSS), 2021, 2022.
 
 ## 外部サイト
 
