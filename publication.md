@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits: Extended Version,"  IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol. E106-A, No. 3, 2023, [PDF](https://www.jstage.jst.go.jp/article/transfun/advpub/0/advpub_2022CIP0009/_article/-char/ja/).
 1. K.Yamashita, B. Cyr, K. Fu, W. Burleson, and T. Sugawara, "Redshift: Manipulating Signal Propagation Delay via Continuous-Wave Lasers," IACR Trans. Cryptographic Hardware and Embedded Systems 2022(4), 2022, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/9828).
 1. G. Takatoi, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li, "The Limits of SEMA on Distinguishing Similar Activation Functions of Embedded Deep Neural Networks," Applied Sciences, Special Issue on Side Channel Attacks in Embedded Systems, 2022.
 1. G. Takami, T. Sugawara, K. Sakiyama, and Y. Li, “Mixture-Based 5-Round Physical Attack against AES: Attack Proposal and Noise Evaluation, ” IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol.E105-A, No.3, pp.XXX-YYY, (to appear in Mar. 2022).
@@ -45,9 +46,10 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. Y. Naito, Y. Sasaki, and T. Sugawara, ``Secret Can Be Public: Low-Memory AEAD Mode for High-Order Masking,’’ Crypto 2022, to appear.
-1. R. Kudo, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li “Revisiting System Noise in Side-Channel Attacks: Mutual Assistant SCA vs. Genetic Algorithm” in Asian Hardware Oriented Security and Trust Symposium (AsianHOST’21), (to appear in Dec., 2021).
-1. Y. Naito, Y. Sasaki, and T. Sugawara, ``Double-Block-Length Hash Function for Minimum Memory Size,’’ Asiacrypt 2021, to appear.
+1. Y. Naito, Y. Sasaki, T. Sugawara, and K. Yasuda, "The Multi-User Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to TDES," ACM CCS 2022, 2022 (to appear). 
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "Secret Can Be Public: Low-Memory AEAD Mode for High-Order Masking," Crypto 2022, [PDF](https://eprint.iacr.org/2022/812).
+1. R. Kudo, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li “Revisiting System Noise in Side-Channel Attacks: Mutual Assistant SCA vs. Genetic Algorithm,” in Asian Hardware Oriented Security and Trust Symposium (AsianHOST’21), 2021.
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "Double-Block-Length Hash Function for Minimum Memory Size," Asiacrypt 2021, 2021, [PDF](https://link.springer.com/content/pdf/10.1007/978-3-030-92078-4_13.pdf).
 1. B. Cyr, T. Sugawara, and K. Fu, ``Why Lasers Inject Perceived Sound Into MEMS Microphones: Indications and Contraindications of Photoacoustic and Photoelectric Effects,’’ IEEE Sensors 2021, October 2021, to appear.
 1. T. Asano and T. Sugawara, "Simulation Based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V Processor," PROOFS 2021, 2021, [PDF](http://www.proofs-workshop.org/2021/papers/paper3.pdf).
 1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits," the Fourth Workshop on Attacks and Solutions in Hardware Security (ASHES 2020), pp. 57--66, 2020 [PDF](https://dl.acm.org/doi/10.1145/3411504.3421210).
