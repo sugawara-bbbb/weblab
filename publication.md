@@ -46,11 +46,14 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. Y. Naito, Y. Sasaki, T. Sugawara, and K. Yasuda, "The Multi-User Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to TDES," ACM CCS 2022, 2022 (to appear). 
+1. Y. Cao, S. H. Bhupathiraju, P. Naghavi, T. Sugawara, Z. M. Mao, and S. Rampazzi, "You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks,” USENIX Security Symposium 2023 (to appear), [arxiv](https://arxiv.org/abs/2210.09482).
+1. Y. Naito, Y. Sasaki, T. Sugawara, and K. Yasuda, "The Multi-User Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to TDES," ACM CCS 2022, 2022. 
+1. K. Doi and T. Sugawara, "Poster: Inaudible Acoustic Noise from Silicon Capacitors for Voice-Command Injection," ACM CCS 2022 Poster session, 2022.
+1. T. Tanaka and T. Sugawara, "Laser-Based Signal-Injection Attack on Piezoresistive MEMS Pressure Sensors," IEEE Sensors 2021, November 2022, 2022.
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Secret Can Be Public: Low-Memory AEAD Mode for High-Order Masking," Crypto 2022, [PDF](https://eprint.iacr.org/2022/812).
 1. R. Kudo, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li “Revisiting System Noise in Side-Channel Attacks: Mutual Assistant SCA vs. Genetic Algorithm,” in Asian Hardware Oriented Security and Trust Symposium (AsianHOST’21), 2021.
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Double-Block-Length Hash Function for Minimum Memory Size," Asiacrypt 2021, 2021, [PDF](https://link.springer.com/content/pdf/10.1007/978-3-030-92078-4_13.pdf).
-1. B. Cyr, T. Sugawara, and K. Fu, ``Why Lasers Inject Perceived Sound Into MEMS Microphones: Indications and Contraindications of Photoacoustic and Photoelectric Effects,’’ IEEE Sensors 2021, October 2021, to appear.
+1. B. Cyr, T. Sugawara, and K. Fu, ``Why Lasers Inject Perceived Sound Into MEMS Microphones: Indications and Contraindications of Photoacoustic and Photoelectric Effects,’’ IEEE Sensors 2021, October 2022.
 1. T. Asano and T. Sugawara, "Simulation Based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V Processor," PROOFS 2021, 2021, [PDF](http://www.proofs-workshop.org/2021/papers/paper3.pdf).
 1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits," the Fourth Workshop on Attacks and Solutions in Hardware Security (ASHES 2020), pp. 57--66, 2020 [PDF](https://dl.acm.org/doi/10.1145/3411504.3421210).
 1. G. Takatoi, T. Sugawara, K. Sakiyama, and Y. Li, "Simple Electromagnetic Analysis Against Activation Functions of Deep Neural Networks," 1st workshop on Artificial Intelligence in Hardware Security (AIHWS2020), pp. 181--197, 2020.
@@ -109,6 +112,8 @@ layout: default
 
 ## 学会口頭発表（査読なし，2017年〜）
 
+1. 山下晃平, シアベンジャミン, フーケビン, バールソンウェイン, 菅原健, "レッドシフト: 連続波レーザーを用いて信号の伝搬遅延を操作する攻撃," ハードウェアセキュリティ研究会 (HWS), 2022.
+1. 根本昌也, 浅野多聞, 菅原健, "Romulus の TI 付きハードウェア実装と電力リークのシミュレーション評価," ハードウェアセキュリティ研究会 (HWS), 2022.
 1. T. Ono, T. Sugawara, J. Sakuma, T. Mori, "Application of Adversarial Examples to Physical ECG Signals," 情報通信システムセキュリティ研究会（ICSS）, 2022.
 1. 金剛山, 菅原健, "STM32上のAESコプロセッサを用いたOCBの高性能ソフトウェア実装," 2022年暗号と情報セキュリティシンポジウム (SCIS2022), 1C2-6, 2022.
 1. 浅野多聞, 菅原健, "バレルシフタと加算器によるビット非独立なサイドチャネルリークの発生機序とその対策," 2022年暗号と情報セキュリティシンポジウム (SCIS2022), 2C2-3, 2022.
