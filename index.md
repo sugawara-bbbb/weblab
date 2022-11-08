@@ -7,6 +7,20 @@ layout: default
 電気通信大学・菅原研究室では，ソフトウェアとハードウェアの境界面にあるセキュリティ上の問題を研究しています．[﨑山・宮原研究室](http://sakiyama-lab.jp/)，[李研究室](http://www.uec-li-lab.com)，および [岩本・渡邉研究室](https://iw-lab.jp)と協力をしています．大学院入学を希望される学外生は[こちら](https://www.uec.ac.jp/admission/open-graduate/tour.html)から申し込むか，メールでご連絡ください．
 
 # News
+
+- 2022/11/10: 三菱電機・NTT と菅原が共同で行った研究成果を，セキュリティのトップカンファレンス [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) で発表します（[NTT による広報発表](https://group.ntt/jp/topics/2022/11/07/acm_ccs_2022_paper_acceptance.html)）．
+
+- 2022/11/07: M1 の土井君が，シリコンキャパシタから生じる音響リークに関する研究成果を，セキュリティのトップカンファレンス [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) でポスター発表しました．
+
+- 2022/11/07: ミシガン大学，フロリダ大学と菅原が共同で行った研究成果が ITmedia で紹介されました: 
+[自動運転車の視界から“人だけ”を消す攻撃 偽情報をLiDARに注入 電通大などが発表](https://www.itmedia.co.jp/news/articles/2211/07/news043.html). 
+本成果は，セキュリティのトップカンファレンス USENIX Security '23 で発表予定です．[プロジェクトの Web ページ](https://cpseclab.github.io/youcantseeme/), [論文](https://arxiv.org/abs/2210.09482).
+<video  width="390" height="260" controls="controls" src="https://cpseclab.github.io/youcantseeme/vid/OutdoorLidarForward.mp4" type="video/mp4"></video>
+
+- 2022/10/31: M1 の田中君が，レーザー照射による圧力センサへの攻撃に関する研究成果を，国際会議 [IEEE Sensors 2022](https://2022.ieee-sensorsconference.org) で発表しました．
+
+- 2022/10/25: M1 の根本君，M2 の山下君が [HWS 研究会](https://ken.ieice.org/ken/program/index.php?tgs_regid=fe7ebc7938709eddf62572fb3076b44b3a0564a28a5c692e8053d2016d4aae2c&tgid=IEICE-HWS)で発表を行いました．
+
 - 2022/01/21: M1 の浅野君，B4 の金君，田中君，土井君が[SCIS2022](https://www.iwsec.org/scis/2022/)で発表を行いました．
 
 - 2021/09/17: B4 の金君，田中君，土井君が[ソサイエティ大会](http://www.ieice-taikai.jp/2021society/jpn/)で発表を行いました．
@@ -30,7 +44,7 @@ layout: default
 
 - 2020/05/06: **講義について**: 菅原が担当する 2020 年度の「オペレーティングシステム」は遠隔講義として開講します．シラバスに記載された ID から参加してください．
 
-- 2020/04/20: 菅原が2019年夏に国際会議 CHES2019 で発表した動画が公開されていました: [Youtube](https://youtube.com/watch?v=Qm8MAauS0Rc)．
+- 2020/04/20: 菅原が2019年夏に国際会議 CHES2019 で発表した動画が公開されました: [Youtube](https://youtube.com/watch?v=Qm8MAauS0Rc)．
 
 - 2020/3/25: 電気通信大学の[卒業式]({% post_url news/2020-03-25-r02graduation %})が行われました。薮さん(B4)が目黒会賞、藤さん(M1)が学生表彰されました。
 
