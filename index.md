@@ -8,11 +8,11 @@ layout: default
 
 # News
 
-- 2022/11/10: 三菱電機・NTT と菅原が共同で行った研究成果を，セキュリティのトップカンファレンス [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) で発表します（[NTT による広報発表](https://group.ntt/jp/topics/2022/11/07/acm_ccs_2022_paper_acceptance.html)）．
+- 2022/11/10: 三菱電機・NTT と共同で行った研究成果を，セキュリティのトップカンファレンス [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) で発表します（[NTT による広報発表](https://group.ntt/jp/topics/2022/11/07/acm_ccs_2022_paper_acceptance.html)）．
 
 - 2022/11/07: M1 の土井君が，シリコンキャパシタから生じる音響リークに関する研究成果を，セキュリティのトップカンファレンス [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) でポスター発表しました．
 
-- 2022/11/07: ミシガン大学，フロリダ大学と菅原が共同で行った研究成果が ITmedia で紹介されました: 
+- 2022/11/07: ミシガン大学，フロリダ大学と共同で行った研究成果が ITmedia で紹介されました: 
 [自動運転車の視界から“人だけ”を消す攻撃 偽情報をLiDARに注入 電通大などが発表](https://www.itmedia.co.jp/news/articles/2211/07/news043.html). 
 本成果は，セキュリティのトップカンファレンス USENIX Security '23 で発表予定です．[プロジェクトの Web ページ](https://cpseclab.github.io/youcantseeme/), [論文](https://arxiv.org/abs/2210.09482).
 <video  width="390" height="260" controls="controls" src="https://cpseclab.github.io/youcantseeme/vid/OutdoorLidarForward.mp4" type="video/mp4"></video>
