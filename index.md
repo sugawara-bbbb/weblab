@@ -19,7 +19,11 @@ layout: default
 
 - 2022/10/31: M1 の田中君が，レーザー照射による圧力センサへの攻撃に関する研究成果を，国際会議 [IEEE Sensors 2022](https://2022.ieee-sensorsconference.org) で発表しました．
 
+
 - 2022/10/25: M1 の根本君，M2 の山下君が [HWS 研究会](https://ken.ieice.org/ken/program/index.php?tgs_regid=fe7ebc7938709eddf62572fb3076b44b3a0564a28a5c692e8053d2016d4aae2c&tgid=IEICE-HWS)で発表を行いました．
+
+- 2022/10/22: M1 の田中君，土井君，根本君が，トヨタ自動車・Toyota Motor North America, Inc.・Toyota Tsusho Systems US, Inc.
+が開催した CTF イベント Hack Festa 2022 に参加しました（[トヨタ自動車による広報発表](https://www.toyota-tokyo.tech/news/pdf/221107report_jp.pdf)）．
 
 - 2022/01/21: M1 の浅野君，B4 の金君，田中君，土井君が[SCIS2022](https://www.iwsec.org/scis/2022/)で発表を行いました．
 
