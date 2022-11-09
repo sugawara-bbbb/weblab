@@ -47,8 +47,8 @@ layout: default
 ## 国際会議プロシーディングス等（査読あり）
 
 1. Y. Cao, S. H. Bhupathiraju, P. Naghavi, T. Sugawara, Z. M. Mao, and S. Rampazzi, "You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks,” USENIX Security Symposium 2023 (to appear), [arxiv](https://arxiv.org/abs/2210.09482).
-1. Y. Naito, Y. Sasaki, T. Sugawara, and K. Yasuda, "The Multi-User Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to TDES," ACM CCS 2022, 2022. 
-1. K. Doi and T. Sugawara, "Poster: Inaudible Acoustic Noise from Silicon Capacitors for Voice-Command Injection," ACM CCS 2022 Poster session, 2022.
+1. Y. Naito, Y. Sasaki, T. Sugawara, and K. Yasuda, "The Multi-User Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to TDES," ACM CCS 2022, 2022 [PDF](https://dl.acm.org/doi/10.1145/3548606.3560674). 
+1. K. Doi and T. Sugawara, "Poster: Inaudible Acoustic Noise from Silicon Capacitors for Voice-Command Injection," ACM CCS 2022 Poster session, 2022 [PDF](https://dl.acm.org/doi/10.1145/3548606.3563526).
 1. T. Tanaka and T. Sugawara, "Laser-Based Signal-Injection Attack on Piezoresistive MEMS Pressure Sensors," IEEE Sensors 2021, November 2022, 2022.
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Secret Can Be Public: Low-Memory AEAD Mode for High-Order Masking," Crypto 2022, [PDF](https://eprint.iacr.org/2022/812).
 1. R. Kudo, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li “Revisiting System Noise in Side-Channel Attacks: Mutual Assistant SCA vs. Genetic Algorithm,” in Asian Hardware Oriented Security and Trust Symposium (AsianHOST’21), 2021.
