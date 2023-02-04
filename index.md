@@ -8,7 +8,7 @@ layout: default
 
 # News
 
-- 2022/11/10: 三菱電機・NTT と共同で行った研究成果を，セキュリティのトップカンファレンス [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) で発表します（[NTT による広報発表](https://group.ntt/jp/topics/2022/11/07/acm_ccs_2022_paper_acceptance.html)）．
+- 2022/11/10: 三菱電機・NTT と共同で行った研究成果を，セキュリティのトップカンファレンス [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) で発表しました（[NTT による広報発表](https://group.ntt/jp/topics/2022/11/07/acm_ccs_2022_paper_acceptance.html)）．
 
 - 2022/11/07: M1 の土井君が，シリコンキャパシタから生じる音響リークに関する研究成果を，セキュリティのトップカンファレンス [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) でポスター発表しました．
 
