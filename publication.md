@@ -9,7 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
-1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits: Extended Version,"  IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol. E106-A, No. 3, 2023, [PDF](https://www.jstage.jst.go.jp/article/transfun/advpub/0/advpub_2022CIP0009/_article/-char/ja/).
+1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits: Extended Version,"  IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol. E106-A, No. 3, 2023, [PDF](https://www.jstage.jst.go.jp/article/transfun/E106.A/3/E106.A_2022CIP0009/_article/-char/ja).
 1. K.Yamashita, B. Cyr, K. Fu, W. Burleson, and T. Sugawara, "Redshift: Manipulating Signal Propagation Delay via Continuous-Wave Lasers," IACR Trans. Cryptographic Hardware and Embedded Systems 2022(4), 2022, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/9828).
 1. G. Takatoi, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li, "The Limits of SEMA on Distinguishing Similar Activation Functions of Embedded Deep Neural Networks," Applied Sciences, Special Issue on Side Channel Attacks in Embedded Systems, 2022.
 1. G. Takami, T. Sugawara, K. Sakiyama, and Y. Li, “Mixture-Based 5-Round Physical Attack against AES: Attack Proposal and Noise Evaluation, ” IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol.E105-A, No.3, pp.XXX-YYY, (to appear in Mar. 2022).
