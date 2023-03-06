@@ -8,6 +8,10 @@ layout: default
 
 # News
 
+- 2023/02/27: カリフォルニア大学アーバイン校, フロリダ大学, Toyota InfoTech Labs と共同で行なった研究成果を，車セキュリティに関する国際会議 VehicleSec 2023 で発表し, ETAS Best Short/WIP Paper Award と Qualcomm Best Demo Award を受賞しました ([電通大 Web ページ](https://www.uec.ac.jp/news/prize/2023/20230301_5199.html))．
+
+- 2023/02/27: ミシガン大学，ノースイースタン大学と共同で行なった人工衛星のセンサセキュリティに関する研究成果を，宇宙セキュリティに関する国際会議 SpaceSec 2023 で発表しました．
+
 - 2022/11/10: 三菱電機・NTT と共同で行った研究成果を，セキュリティのトップカンファレンス [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) で発表しました（[NTT による広報発表](https://group.ntt/jp/topics/2022/11/07/acm_ccs_2022_paper_acceptance.html)）．
 
 - 2022/11/07: M1 の土井君が，シリコンキャパシタから生じる音響リークに関する研究成果を，セキュリティのトップカンファレンス [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) でポスター発表しました．

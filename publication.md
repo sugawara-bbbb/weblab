@@ -46,6 +46,8 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
+1. B. Cyr, Y. Long, T. Sugawara, and K. Fu, "Position Paper: Space System Threat Models Must Account for Satellite Sensor Spoofing," SpaceSec 2023, 2023.
+1. T. Sato, S. H. V. Bhupathiraju, M. Clifford, T. Sugawara, Q. A. Chen, and S. Rampazzi, "WIP: Infrared Laser Reflection Attack Against Traffic Sign Recognition Systems," VehicleSec 2023, 2023.
 1. Y. Cao, S. H. Bhupathiraju, P. Naghavi, T. Sugawara, Z. M. Mao, and S. Rampazzi, "You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks,” USENIX Security Symposium 2023 (to appear), [arxiv](https://arxiv.org/abs/2210.09482).
 1. Y. Naito, Y. Sasaki, T. Sugawara, and K. Yasuda, "The Multi-User Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to TDES," ACM CCS 2022, 2022 [PDF](https://dl.acm.org/doi/10.1145/3548606.3560674). 
 1. K. Doi and T. Sugawara, "Poster: Inaudible Acoustic Noise from Silicon Capacitors for Voice-Command Injection," ACM CCS 2022 Poster session, 2022 [PDF](https://dl.acm.org/doi/10.1145/3548606.3563526).
