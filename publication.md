@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. T. Asano and T. Sugawara, "Simulation-based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V: Extended Version," Journal of Cryptographic Engineering, 2023.
 1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits: Extended Version,"  IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol. E106-A, No. 3, 2023, [PDF](https://www.jstage.jst.go.jp/article/transfun/E106.A/3/E106.A_2022CIP0009/_article/-char/ja).
 1. K.Yamashita, B. Cyr, K. Fu, W. Burleson, and T. Sugawara, "Redshift: Manipulating Signal Propagation Delay via Continuous-Wave Lasers," IACR Trans. Cryptographic Hardware and Embedded Systems 2022(4), 2022, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/9828).
 1. G. Takatoi, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li, "The Limits of SEMA on Distinguishing Similar Activation Functions of Embedded Deep Neural Networks," Applied Sciences, Special Issue on Side Channel Attacks in Embedded Systems, 2022.
@@ -46,9 +47,10 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
+1. Y. Cao, S. H. Bhupathiraju, P. Naghavi, T. Sugawara, Z. M. Mao, and S. Rampazzi, "You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks,” USENIX Security Symposium 2023 (to appear), [arxiv](https://arxiv.org/abs/2210.09482).
+1. S. H. Bhupathiraju, J. Sheldon, L. A. Bauer, V. Bindschaedler, T. Sugawara, and S. Rampazzi, "EMI-LiDAR: Uncovering Vulnerabilities of LiDAR Sensors in Autonomous Driving Setting using Electromagnetic Interference," 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSEC 2023), [PDF](https://dl.acm.org/doi/10.1145/3558482.3590192).
 1. B. Cyr, Y. Long, T. Sugawara, and K. Fu, "Position Paper: Space System Threat Models Must Account for Satellite Sensor Spoofing," SpaceSec 2023, 2023.
 1. T. Sato, S. H. V. Bhupathiraju, M. Clifford, T. Sugawara, Q. A. Chen, and S. Rampazzi, "WIP: Infrared Laser Reflection Attack Against Traffic Sign Recognition Systems," VehicleSec 2023, 2023.
-1. Y. Cao, S. H. Bhupathiraju, P. Naghavi, T. Sugawara, Z. M. Mao, and S. Rampazzi, "You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks,” USENIX Security Symposium 2023 (to appear), [arxiv](https://arxiv.org/abs/2210.09482).
 1. Y. Naito, Y. Sasaki, T. Sugawara, and K. Yasuda, "The Multi-User Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to TDES," ACM CCS 2022, 2022 [PDF](https://dl.acm.org/doi/10.1145/3548606.3560674). 
 1. K. Doi and T. Sugawara, "Poster: Inaudible Acoustic Noise from Silicon Capacitors for Voice-Command Injection," ACM CCS 2022 Poster session, 2022 [PDF](https://dl.acm.org/doi/10.1145/3548606.3563526).
 1. T. Tanaka and T. Sugawara, "Laser-Based Signal-Injection Attack on Piezoresistive MEMS Pressure Sensors," IEEE Sensors 2021, November 2022, 2022.
