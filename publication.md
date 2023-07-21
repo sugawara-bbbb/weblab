@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "MMM: Authenticated Encryption with Minimum Secret State for Masking," IACR Trans. Cryptographic Hardware and Embedded Systems 2023(4), 2023.
 1. T. Asano and T. Sugawara, "Simulation-based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V: Extended Version," Journal of Cryptographic Engineering, 2023.
 1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits: Extended Version,"  IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol. E106-A, No. 3, 2023, [PDF](https://www.jstage.jst.go.jp/article/transfun/E106.A/3/E106.A_2022CIP0009/_article/-char/ja).
 1. K.Yamashita, B. Cyr, K. Fu, W. Burleson, and T. Sugawara, "Redshift: Manipulating Signal Propagation Delay via Continuous-Wave Lasers," IACR Trans. Cryptographic Hardware and Embedded Systems 2022(4), 2022, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/9828).
