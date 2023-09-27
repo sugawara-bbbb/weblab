@@ -8,6 +8,11 @@ layout: default
 
 # News
 
+- 2023/05/30: フロリダ大学と共同で行なった研究成果を，無線セキュリティに関する国際会議 WiSec 2023 で発表しました．自動運転で使われる LiDAR (3次元計測センサ) に対して電磁波を照射することで偽情報を挿入し，物体検出などの続く処理における誤検出・誤識別を引き起こす脆弱性を発見しました．
+[プロジェクトの Web ページ](https://cpseclab.github.io/EMILidar/), [論文](https://dl.acm.org/doi/abs/10.1145/3558482.3590192), [発表動画](https://youtu.be/AfwCUC1EU-o?feature=shared).
+![emi1](fig/EMI_NoAttackGif.gif)
+![emi2](fig/EMI_SineGif.gif)
+
 - 2023/02/27: カリフォルニア大学アーバイン校, フロリダ大学, Toyota InfoTech Labs と共同で行なった研究成果を，車セキュリティに関する国際会議 VehicleSec 2023 で発表し, ETAS Best Short/WIP Paper Award と Qualcomm Best Demo Award を受賞しました ([電通大 Web ページ](https://www.uec.ac.jp/news/prize/2023/20230301_5199.html))．
 
 - 2023/02/27: ミシガン大学，ノースイースタン大学と共同で行なった人工衛星のセンサセキュリティに関する研究成果を，宇宙セキュリティに関する国際会議 SpaceSec 2023 で発表しました．
