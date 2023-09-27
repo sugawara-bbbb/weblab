@@ -8,10 +8,17 @@ layout: default
 
 # News
 
+- 2023/05/30: ミシガン大学，フロリダ大学と共同で行った研究成果を，セキュリティのトップカンファレンス USENIX Security '23 で発表しました．
+自動運転で使われる LiDAR (3次元計測センサ) に対して偽の反射光を照射することで，センサの視界から特定のものを削除することができる脆弱性を発見しました．
+昨年，ITmedia で記事になったものです([自動運転車の視界から“人だけ”を消す攻撃 偽情報をLiDARに注入 電通大などが発表](https://www.itmedia.co.jp/news/articles/2211/07/news043.html)). 
+[プロジェクトの Web ページ](https://cpseclab.github.io/youcantseeme/), [論文](https://www.usenix.org/system/files/usenixsecurity23-cao.pdf).
+
+<video  width="390" height="260" controls="controls" src="https://cpseclab.github.io/youcantseeme/vid/OutdoorLidarForward.mp4" type="video/mp4"></video>
+
 - 2023/05/30: フロリダ大学と共同で行なった研究成果を，無線セキュリティに関する国際会議 WiSec 2023 で発表しました．自動運転で使われる LiDAR (3次元計測センサ) に対して電磁波を照射することで偽情報を挿入し，物体検出などの続く処理における誤検出・誤識別を引き起こす脆弱性を発見しました．
 [プロジェクトの Web ページ](https://cpseclab.github.io/EMILidar/), [論文](https://dl.acm.org/doi/abs/10.1145/3558482.3590192), [発表動画](https://youtu.be/AfwCUC1EU-o?feature=shared).
-![emi1](fig/EMI_NoAttackGif.gif)
-![emi2](fig/EMI_SineGif.gif)
+![emi1](fig/EMI_NoAttackGif.gif){:width="400px"}
+![emi2](fig/EMI_SineGif.gif){:width="400px"}
 
 - 2023/02/27: カリフォルニア大学アーバイン校, フロリダ大学, Toyota InfoTech Labs と共同で行なった研究成果を，車セキュリティに関する国際会議 VehicleSec 2023 で発表し, ETAS Best Short/WIP Paper Award と Qualcomm Best Demo Award を受賞しました ([電通大 Web ページ](https://www.uec.ac.jp/news/prize/2023/20230301_5199.html))．
 
@@ -23,8 +30,7 @@ layout: default
 
 - 2022/11/07: ミシガン大学，フロリダ大学と共同で行った研究成果が ITmedia で紹介されました: 
 [自動運転車の視界から“人だけ”を消す攻撃 偽情報をLiDARに注入 電通大などが発表](https://www.itmedia.co.jp/news/articles/2211/07/news043.html). 
-本成果は，セキュリティのトップカンファレンス USENIX Security '23 で発表予定です．[プロジェクトの Web ページ](https://cpseclab.github.io/youcantseeme/), [論文](https://arxiv.org/abs/2210.09482).
-<video  width="390" height="260" controls="controls" src="https://cpseclab.github.io/youcantseeme/vid/OutdoorLidarForward.mp4" type="video/mp4"></video>
+[プロジェクトの Web ページ](https://cpseclab.github.io/youcantseeme/), [論文](https://arxiv.org/abs/2210.09482).
 
 - 2022/10/31: M1 の田中君が，レーザー照射による圧力センサへの攻撃に関する研究成果を，国際会議 [IEEE Sensors 2022](https://2022.ieee-sensorsconference.org) で発表しました．
 
