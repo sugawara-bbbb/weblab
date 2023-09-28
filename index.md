@@ -8,7 +8,11 @@ layout: default
 
 # News
 
-- 2023/05/30: ミシガン大学，フロリダ大学と共同で行った研究成果を，セキュリティのトップカンファレンス USENIX Security '23 で発表しました．
+- 2023/09/11: 三菱電機・NTT と共同で行った研究成果を，暗号実装における国際会議 CHES 2023 で発表しました．
+マスキング（サイドチャネル攻撃対策）を効率的に行うことができる新たな暗号利用モード MMM を提案しました．
+[論文](https://tches.iacr.org/index.php/TCHES/article/view/11159). 
+
+- 2023/08/10: ミシガン大学，フロリダ大学と共同で行った研究成果を，セキュリティのトップカンファレンス USENIX Security 2023 で発表しました．
 自動運転で使われる LiDAR (3次元計測センサ) に対して偽の反射光を照射することで，センサの視界から特定のものを削除することができる脆弱性を発見しました．
 昨年，ITmedia で記事になったものです([自動運転車の視界から“人だけ”を消す攻撃 偽情報をLiDARに注入 電通大などが発表](https://www.itmedia.co.jp/news/articles/2211/07/news043.html)). 
 [プロジェクトの Web ページ](https://cpseclab.github.io/youcantseeme/), [論文](https://www.usenix.org/system/files/usenixsecurity23-cao.pdf).
@@ -33,7 +37,6 @@ layout: default
 [プロジェクトの Web ページ](https://cpseclab.github.io/youcantseeme/), [論文](https://arxiv.org/abs/2210.09482).
 
 - 2022/10/31: M1 の田中君が，レーザー照射による圧力センサへの攻撃に関する研究成果を，国際会議 [IEEE Sensors 2022](https://2022.ieee-sensorsconference.org) で発表しました．
-
 
 - 2022/10/25: M1 の根本君，M2 の山下君が [HWS 研究会](https://ken.ieice.org/ken/program/index.php?tgs_regid=fe7ebc7938709eddf62572fb3076b44b3a0564a28a5c692e8053d2016d4aae2c&tgid=IEICE-HWS)で発表を行いました．
 
