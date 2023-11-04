@@ -117,6 +117,7 @@ layout: default
 
 ## 学会口頭発表（査読なし，2017年〜）
 
+1. 平賀幸仁, 内藤祐介, 佐々木悠, 菅原健, "メモリサイズが最小の置換ベース決定的認証暗号," コンピュータセキュリティシンポジウム2023.
 1. 平賀幸仁, 菅原健, "乱数の消費が少なく PINI を満たす 4 次マスキング," 2023年暗号と情報セキュリティシンポジウム (SCIS2023), 3E2-4, 2023.
 1. 松川侑生, 崎山一男, 菅原健, 李陽, "Screaming channelsの漏洩モデルの実験的検証," 2023年暗号と情報セキュリティシンポジウム (SCIS2023), 3E1-5, 2023.
 1. Enhao Xu, Takeshi Sugawara, Kazuo Sakiyama, Yuko Hara-Azumi, Yang Li, "Attention-Based Non-Profiled SCA on ASCAD Database," 2023年暗号と情報セキュリティシンポジウム (SCIS2023), 3E1-4, 2023.

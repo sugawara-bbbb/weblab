@@ -24,7 +24,7 @@ layout: default
 ![emi1](fig/EMI_NoAttackGif.gif){:width="400px"}
 ![emi2](fig/EMI_SineGif.gif){:width="400px"}
 
-- 2023/02/27: カリフォルニア大学アーバイン校, フロリダ大学, Toyota InfoTech Labs と共同で行なった研究成果を，車セキュリティに関する国際会議 VehicleSec 2023 で発表し, ETAS Best Short/WIP Paper Award と Qualcomm Best Demo Award を受賞しました ([電通大 Web ページ](https://www.uec.ac.jp/news/prize/2023/20230301_5199.html))．
+- 2023/02/27: カリフォルニア大学アーバイン校, フロリダ大学, Toyota InfoTech Labs と共同で行なった研究成果を，車セキュリティに関する国際会議 VehicleSec 2023 で発表し, ETAS Best Short/WIP Paper Award と Qualcomm Best Demo Award を受賞しました ([電通大 Web ページ](https://www.uec.ac.jp/news/prize/2023/20230301_5199.html), [トヨタによる発表](https://amrd.toyota.com/itl-researcher-received-the-best-paper-paper-award-at-the-vehiclesec-2023-workshop/))．
 
 - 2023/02/27: ミシガン大学，ノースイースタン大学と共同で行なった人工衛星のセンサセキュリティに関する研究成果を，宇宙セキュリティに関する国際会議 SpaceSec 2023 で発表しました．
 
