@@ -8,6 +8,8 @@ layout: default
 
 # News
 
+- M1 の平賀君が三菱電機・NTT と共同で行った研究成果を, The Information Security Conference (ISC 2023) で発表しました．
+
 - M1 の平賀君が三菱電機・NTT と共同で行った研究成果をコンピュータセキュリティシンポジウム2023（CSS2023）において発表し，CSS 奨励賞を受賞しました. [大学の広報](https://www.uec.ac.jp/news/prize/2023/20231107_5756.html).
 
 - 2023/09/11: 三菱電機・NTT と共同で行った研究成果を，暗号実装における国際会議 CHES 2023 で発表しました．
