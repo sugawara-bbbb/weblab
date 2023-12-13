@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "Committing Security of Ascon: Cryptanalysis on Primitive and Proof on Mode," IACR Trans. Symmetric Cryptology, 2023, [PDF](https://tosc.iacr.org/index.php/ToSC/article/view/11295).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "MMM: Authenticated Encryption with Minimum Secret State for Masking," IACR Trans. Cryptographic Hardware and Embedded Systems 2023(4), 2023.
 1. T. Asano and T. Sugawara, "Simulation-based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V: Extended Version," Journal of Cryptographic Engineering, 2023.
 1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits: Extended Version,"  IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol. E106-A, No. 3, 2023, [PDF](https://www.jstage.jst.go.jp/article/transfun/E106.A/3/E106.A_2022CIP0009/_article/-char/ja).
@@ -47,6 +48,8 @@ layout: default
 
 
 ## 国際会議プロシーディングス等（査読あり）
+
+1. Y. Matsukawa, D. Miyahara, T. Sugawara, K. Sakiyama, and Y. Li, "Exploring Leakage Characteristics and Attacks through Profiles of Screaming Channels," MobiSec 2023, 2023.
 1. Y. Hiraga, Y. Naito, Y. Sasaki, and T. Sugawara, "Permutation-Based Deterministic Authenticated Encryption with Minimum Memory Size," Information Security Conference 2023 (to appear).
 1. Y. Cao, S. H. Bhupathiraju, P. Naghavi, T. Sugawara, Z. M. Mao, and S. Rampazzi, "You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks,” USENIX Security Symposium 2023, [PDF](https://www.usenix.org/conference/usenixsecurity23/presentation/cao),[Web](https://cpseclab.github.io/youcantseeme/).
 1. S. H. Bhupathiraju, J. Sheldon, L. A. Bauer, V. Bindschaedler, T. Sugawara, and S. Rampazzi, "EMI-LiDAR: Uncovering Vulnerabilities of LiDAR Sensors in Autonomous Driving Setting using Electromagnetic Interference," 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSEC 2023), [PDF](https://dl.acm.org/doi/10.1145/3558482.3590192).
