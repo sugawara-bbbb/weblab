@@ -48,7 +48,8 @@ layout: default
 
 
 ## 国際会議プロシーディングス等（査読あり）
-
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "KIVR: Committing Authenticated Encryption Using Plaintext Redundancy and Application to GCM, CCM, and More," 22nd International Conference on Applied Cryptography and Network Security (ACNS 2024), 2024 (to appear).
+1. T. Sato, S. H. V. Bhupathiraju, M. Clifford, T. Sugawara, Q. A. Chen, and S. Rampazzi, "Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception," Network and Distributed System Security (NDSS) Symposium 2024 (to appear).
 1. Y. Matsukawa, D. Miyahara, T. Sugawara, K. Sakiyama, and Y. Li, "Exploring Leakage Characteristics and Attacks through Profiles of Screaming Channels," MobiSec 2023, 2023.
 1. Y. Hiraga, Y. Naito, Y. Sasaki, and T. Sugawara, "Permutation-Based Deterministic Authenticated Encryption with Minimum Memory Size," Information Security Conference 2023 (to appear).
 1. Y. Cao, S. H. Bhupathiraju, P. Naghavi, T. Sugawara, Z. M. Mao, and S. Rampazzi, "You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks,” USENIX Security Symposium 2023, [PDF](https://www.usenix.org/conference/usenixsecurity23/presentation/cao),[Web](https://cpseclab.github.io/youcantseeme/).
