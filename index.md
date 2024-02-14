@@ -8,6 +8,11 @@ layout: default
 
 # News
 
+- 2024/01/25: 米カリフォルニア大学アーバイン校、米フロリダ大学、米 Toyota InfoTech Labs と共同で行った研究成果が ITmedia で紹介されました:
+[道路標識に「人に見えないレーザー」照射　自動運転車を欺く攻撃　米国と日本の研究者らが発表](https://www.itmedia.co.jp/news/articles/2401/25/news049.html).
+[プロジェクトの Web ページ](https://sites.google.com/view/cav-sec/ilr-attack), [論文](https://arxiv.org/abs/2401.03582).
+本成果は，2 月に開催される国際会議 NDSS で発表予定です.
+
 - M1 の平賀君が三菱電機・NTT と共同で行った研究成果を, The Information Security Conference (ISC 2023) で発表しました．
 
 - M1 の平賀君が三菱電機・NTT と共同で行った研究成果をコンピュータセキュリティシンポジウム2023（CSS2023）において発表し，CSS 奨励賞を受賞しました. [大学の広報](https://www.uec.ac.jp/news/prize/2023/20231107_5756.html).
