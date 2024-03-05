@@ -10,12 +10,12 @@ layout: default
 ## 学術論文（査読あり）
 
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Committing Security of Ascon: Cryptanalysis on Primitive and Proof on Mode," IACR Trans. Symmetric Cryptology, 2023, [PDF](https://tosc.iacr.org/index.php/ToSC/article/view/11295).
-1. Y. Naito, Y. Sasaki, and T. Sugawara, "MMM: Authenticated Encryption with Minimum Secret State for Masking," IACR Trans. Cryptographic Hardware and Embedded Systems 2023(4), 2023.
-1. T. Asano and T. Sugawara, "Simulation-based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V: Extended Version," Journal of Cryptographic Engineering, 2023.
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "MMM: Authenticated Encryption with Minimum Secret State for Masking," IACR Trans. Cryptographic Hardware and Embedded Systems 2023(4), 2023 [PDF](https://tches.iacr.org/index.php/TCHES/article/view/11159).
+1. T. Asano and T. Sugawara, "Simulation-based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V: Extended Version," Journal of Cryptographic Engineering, 2023 [PDF](https://link.springer.com/article/10.1007/s13389-023-00319-z).
 1. M. Shiozaki, T. Sugawara, and T. Fujino, "Exploring Effect of Residual Electric Charges on Cryptographic Circuits: Extended Version,"  IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol. E106-A, No. 3, 2023, [PDF](https://www.jstage.jst.go.jp/article/transfun/E106.A/3/E106.A_2022CIP0009/_article/-char/ja).
 1. K.Yamashita, B. Cyr, K. Fu, W. Burleson, and T. Sugawara, "Redshift: Manipulating Signal Propagation Delay via Continuous-Wave Lasers," IACR Trans. Cryptographic Hardware and Embedded Systems 2022(4), 2022, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/9828).
 1. G. Takatoi, T. Sugawara, K. Sakiyama, Y. Hara-Azumi, and Y. Li, "The Limits of SEMA on Distinguishing Similar Activation Functions of Embedded Deep Neural Networks," Applied Sciences, Special Issue on Side Channel Attacks in Embedded Systems, 2022.
-1. G. Takami, T. Sugawara, K. Sakiyama, and Y. Li, “Mixture-Based 5-Round Physical Attack against AES: Attack Proposal and Noise Evaluation, ” IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol.E105-A, No.3, pp.XXX-YYY, (to appear in Mar. 2022).
+1. G. Takami, T. Sugawara, K. Sakiyama, and Y. Li, “Mixture-Based 5-Round Physical Attack against AES: Attack Proposal and Noise Evaluation, ” IEICE Trans. Fundam. Electron. Commun. Comput. Sci., Vol.E105-A, No.3, pp. 289--299, 2022 [PDF](https://search.ieice.org/bin/pdf_link.php?category=A&fname=e105-a_3_289&lang=E&year=2022).
 1. Y. Long, S. Rampazzi, T. Sugawara, and K. Fu, ``Protecting COVID-19 Vaccine Transportation and Storage from Analog Cybersecurity Threats,’’ AAMI Biomedical Instrumentation & Technology 2021, pp. 29—34, 2021, [Web](https://meridian.allenpress.com/bit/article/55/3/112/469795/).
 1. 藤聡子, 土屋彩夏, 李陽, 崎山一男, 菅原健, "分光スペクトルを用いた調光機能のある白色 LED の個体識別, 情報処理学会論文誌 Vol. 62 No. 9, pp. 1–11 (Sep. 2021).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "AES-LBBB: AES Mode for Lightweight and BBB-Secure Authenticated Encryption," IACR Trans. Cryptographic Hardware and Embedded Systems 2021(3), pp. 298-333, [PDF](https://tches.iacr.org/index.php/TCHES/article/view/8976).
@@ -48,10 +48,16 @@ layout: default
 
 
 ## 国際会議プロシーディングス等（査読あり）
-1. Y. Naito, Y. Sasaki, and T. Sugawara, "KIVR: Committing Authenticated Encryption Using Plaintext Redundancy and Application to GCM, CCM, and More," 22nd International Conference on Applied Cryptography and Network Security (ACNS 2024), 2024 (to appear).
-1. T. Sato, S. H. V. Bhupathiraju, M. Clifford, T. Sugawara, Q. A. Chen, and S. Rampazzi, "Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception," Network and Distributed System Security (NDSS) Symposium 2024 (to appear).
+
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "The Exact Multi-User Security of (Tweakable) Key Alternating Ciphers with a Single Permutation ," Eurocrypt 2024, 2024 (to appear).
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "The Exact Multi-User Security of 2-Key Triple DES," CT-RSA 2024, 2024 (to appear).
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "KIVR: Committing Authenticated Encryption Using Plaintext Redundancy and Application to GCM, CCM, and More," 22nd International Conference on Applied Cryptography and Network Security (ACNS 2024), 2024.
+1. A. Matsushita, T. Toyama, H. Oguma, and T. Sugawara, "Demo: CAN Security Hands-On Education Platform," VehicleSec 2024, 2024 [PDF](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-3-demo.pdf).
+1. M. Fukunaga and T. Sugawara, "Random Spoofing Attack against LiDAR-Based Scan Matching SLAM," VehicleSec 2024, 2024 [PDF](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-14-paper.pdf).
+1. S. H. V. Bhupathiraju, T. Sato, M. Clifford, T. Sugawara, Q. A. Chen, and S. Rampazzi, "On the Vulnerability of Traffic Light Recognition Systems to Laser Illumination Attacks," VehicleSec 2024, 2024 [PDF](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-24-paper.pdf).
+1. T. Sato, S. H. V. Bhupathiraju, M. Clifford, T. Sugawara, Q. A. Chen, and S. Rampazzi, "Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception," Network and Distributed System Security (NDSS) Symposium 2024 [PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-1053-paper.pdf).
 1. Y. Matsukawa, D. Miyahara, T. Sugawara, K. Sakiyama, and Y. Li, "Exploring Leakage Characteristics and Attacks through Profiles of Screaming Channels," MobiSec 2023, 2023.
-1. Y. Hiraga, Y. Naito, Y. Sasaki, and T. Sugawara, "Permutation-Based Deterministic Authenticated Encryption with Minimum Memory Size," Information Security Conference 2023 (to appear).
+1. Y. Hiraga, Y. Naito, Y. Sasaki, and T. Sugawara, "Permutation-Based Deterministic Authenticated Encryption with Minimum Memory Size," Information Security Conference 2023.
 1. Y. Cao, S. H. Bhupathiraju, P. Naghavi, T. Sugawara, Z. M. Mao, and S. Rampazzi, "You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks,” USENIX Security Symposium 2023, [PDF](https://www.usenix.org/conference/usenixsecurity23/presentation/cao),[Web](https://cpseclab.github.io/youcantseeme/).
 1. S. H. Bhupathiraju, J. Sheldon, L. A. Bauer, V. Bindschaedler, T. Sugawara, and S. Rampazzi, "EMI-LiDAR: Uncovering Vulnerabilities of LiDAR Sensors in Autonomous Driving Setting using Electromagnetic Interference," 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSEC 2023), [PDF](https://dl.acm.org/doi/10.1145/3558482.3590192).
 1. B. Cyr, Y. Long, T. Sugawara, and K. Fu, "Position Paper: Space System Threat Models Must Account for Satellite Sensor Spoofing," SpaceSec 2023, 2023.
@@ -172,7 +178,7 @@ layout: default
 1. 小沼竜也, 李陽, 菅原健, “クロック操作によるTime-to-Time-to-Digital Converterへの情報改ざん攻撃,” IEICE2019年ソサイエティ大会, (Sep., 2019).
 1. 土屋彩夏，藤聡子, 李陽, 崎山一男, 菅原健, “積分球による光量の均一化に基づくLEDの個体識別,” IEICE2019年ソサイエティ大会, (Sep., 2019).
 1. 薮茉莉花, 崎山一男, 菅原健, “ARM Cortex-M0におけるAES暗号化処理の小型実装,” IEICE2019年ソサイエティ大会, (Sep., 2019).
-1. 廣瀬勝一, 菅原健, 駒野雄一, "サイドチャネル攻撃への耐性を有する認証暗号方式について," IT・ISEC・WBS合同研究会, 2019 (to appear).
+1. 廣瀬勝一, 菅原健, 駒野雄一, "サイドチャネル攻撃への耐性を有する認証暗号方式について," IT・ISEC・WBS合同研究会, 2019.
 1. 藤聡子, 李陽, 崎山一男, 菅原健, “分光スペクトルを用いたLEDの個体識別における電流変化の影響,” 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 3D4-2, 6 pages, (Jan., 2019).
 1. 菅原健, "Changing of the Guards の一般化," 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 3D3-4, (Jan., 2019).
 1. 高木翼, 崎山一男, 菅原健, 梨本翔永, 鈴木大輔, “SDAccel環境を用いたAES暗号CTRモードの高性能実装,” 2019年暗号と情報セキュリティシンポジウム (SCIS2019), 1D1-1, 7 pages, (Jan., 2019).
