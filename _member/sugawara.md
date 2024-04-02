@@ -50,6 +50,13 @@ email: sugawara
 - 2020年09月11日 ISEC 研究会活動貢献感謝状（暗号と情報セキュリティワークショップ2020）
 - 2021年05月19日 ISEC 研究会活動貢献感謝状（2021 年 5 月研究会）
 - 2021年12月18日 Asian Hardware Oriented Security and Trust Symposium (AsianHOST2021), Best Paper Award
+- 2022年10月31日 ISEC 研究会活動貢献感謝状（2022 年 10 月研究会）
+- 2023年02月27日 ETAS Best Short/WIP Paper Award, Inaugural ISOC Symposium on Vehicle Security & Privacy (VehicleSec 2023)
+- 2023年02月27日 Qualcomm Best Demo AwardInaugural ISOC Symposium on Vehicle Security & Privacy (VehicleSec 2023)
+- 2023年11月02日 CSS 奨励賞 (平賀幸仁), コンピュータセキュリティシンポジウム2023（CSS2023）
+- 2023年12月20日 KIISC Best Paper Award, The 7th International Conference on Mobile Internet Security (MobiSec2023)
+- 2024年02月26日 Outstanding Reviewer Award, Inaugural ISOC Symposium on Vehicle Security & Privacy (VehicleSec2024)
+- 2024年02月26日 DENSO Best Demo Award Runner-up, Inaugural ISOC Symposium on Vehicle Security & Privacy (VehicleSec 2024)
 
 ## 特許
 
@@ -72,12 +79,22 @@ email: sugawara
 - Program committee, Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2017 and 2018.
 - Program committee, Cryptographer’s track at RSA Conference 2019 (CT-RSA2019), 2019.
 - Program committee, Euromicro Conference on Digital System Design, special session on Architecture and Hardware for Security Applications (AHSA), 2020--2023.
-- Program committee, Cryptographic Hardware and Embedded Systems (CHES) 2020--2023.
+- Program committee, IACR Cryptographic Hardware and Embedded Systems (CHES) 2020--2023.
 - Program committee, International Workshop on Artificial Intelligence and Industrial Internet-of-Things Security (AIOTS), 2021.
-- Program committee, Workshop on Offensive Technologies (WOOT), 2023.
-- プログラム委員, コンピュータセキュリティシンポジウム (CSS), 2021, 2022.
+- Program committee, Workshop on Offensive Technologies (WOOT), 2023, 2024.
+- Program committee, IEEE Secure Development Conference (SecDev) 2023.
+- Program committee, Workshop on Attacks and Solutions in Hardware Security (ASHES) 2023.
+- Program committee, IEEE International Solid-State Circuits Conference (ISSCC), 2023--Now.
+- Forum co-organizer, IEEE International Solid-State Circuits Conference (ISSCC), 2023.
+- Program committee, IEEE Symposium on Security and Privacy (S&P) 2024.
+- Program committee, USENIX Security Symposium 2024.
+- Program committee, ISOC Symposium on Vehicle Security & Privacy (VehicleSec), 2024.
+- Paper award committee, ISOC Symposium on Vehicle Security & Privacy (VehicleSec), 2024.
+- プログラム委員, コンピュータセキュリティシンポジウム (CSS), 2021--2023.
 - 実行委員，暗号と情報セキュリティシンポジウム (SCIS), 2019.
 - 幹事補佐, 情報通信システムセキュリティ研究専門委員会 (ICSS), 2021, 2022.
+- 幹事, 情報通信システムセキュリティ研究専門委員会 (ICSS), 2023.
+- 委員, 情報通信システムセキュリティ研究専門委員会 (ICSS), 2024--Now.
 
 ## 外部サイト
 
