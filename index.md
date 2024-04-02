@@ -8,10 +8,17 @@ layout: default
 
 # News
 
+- 2024/03/29: 三菱電機・NTT と共同で行った研究成果を, 30th Fast Software Encryption Conference (FSE 2024) で発表しました．
+
+- 2024/03/08: 三菱電機・NTT と共同で行った研究成果を, 22nd International Conference on Applied Cryptography and Network Security (ACNS 2024) で発表しました．
+
+- 2024/03/01: 米カリフォルニア大学アーバイン校、米フロリダ大学、米 Toyota InfoTech Labs と共同で行った研究成果を，The Network and Distributed System Security (NDSS) Symposium で発表しました．不可視のレーザーを照射することで，自動運転の道路標識を妨害できる脆弱性を発見しました．これは，1月に ITMedia の記事になった成果です．
+
+- 2024/02/26: 車のセキュリティに関する国際会議 VehicleSec 2024 において，3件の発表を行いました (レーザー照射により交通信号機の識別を妨害できる脆弱性の発見, レーザーにより LiDAR 自己位置推定を騙せる脆弱性の発見, 車載ネットワークセキュリティのハンズオン学習プラットフォーム)．Outstanding Reviewer Award および DENSO Best Demo Award Runner-up を受賞しました．
+
 - 2024/01/25: 米カリフォルニア大学アーバイン校、米フロリダ大学、米 Toyota InfoTech Labs と共同で行った研究成果が ITmedia で紹介されました:
 [道路標識に「人に見えないレーザー」照射　自動運転車を欺く攻撃　米国と日本の研究者らが発表](https://www.itmedia.co.jp/news/articles/2401/25/news049.html).
 [プロジェクトの Web ページ](https://sites.google.com/view/cav-sec/ilr-attack), [論文](https://arxiv.org/abs/2401.03582).
-本成果は，2 月に開催される国際会議 NDSS で発表予定です.
 
 - M1 の平賀君が三菱電機・NTT と共同で行った研究成果を, The Information Security Conference (ISC 2023) で発表しました．
 
