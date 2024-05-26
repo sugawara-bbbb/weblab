@@ -49,8 +49,8 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. J. Sheldon, W. Zhu, A. Abdullah, S. H. V. Bhupathiraju, T. Sugawara, K. Butler, M. J. Islam, and S. Rampazzi, "AquaSonic: Acoustic Manipulation of Underwater Data Center Operations and Resource Management," IEEE S&P 2024 (to appear).
-1. Y. Naito, Y. Sasaki, and T. Sugawara, "The Exact Multi-User Security of (Tweakable) Key Alternating Ciphers with a Single Permutation ," Eurocrypt 2024, 2024 (to appear).
+1. J. Sheldon, W. Zhu, A. Abdullah, S. H. V. Bhupathiraju, T. Sugawara, K. Butler, M. J. Islam, and S. Rampazzi, "AquaSonic: Acoustic Manipulation of Underwater Data Center Operations and Resource Management," IEEE S&P 2024, [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a245/1WPcZ3IOXJu).
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "The Exact Multi-User Security of (Tweakable) Key Alternating Ciphers with a Single Permutation," Eurocrypt 2024, 2024, [PDF](https://link.springer.com/chapter/10.1007/978-3-031-58716-0_4).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "The Exact Multi-User Security of 2-Key Triple DES," CT-RSA 2024, 2024, [PDF](https://link.springer.com/chapter/10.1007/978-3-031-58868-6_5).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "KIVR: Committing Authenticated Encryption Using Plaintext Redundancy and Application to GCM, CCM, and More," 22nd International Conference on Applied Cryptography and Network Security (ACNS 2024), 2024, [PDF](https://dl.acm.org/doi/abs/10.1007/978-3-031-54770-6_13).
 1. A. Matsushita, T. Toyama, H. Oguma, and T. Sugawara, "Demo: CAN Security Hands-On Education Platform," VehicleSec 2024, 2024 [PDF](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-3-demo.pdf).
