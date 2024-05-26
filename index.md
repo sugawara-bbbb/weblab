@@ -13,6 +13,11 @@ layout: default
 
 - 2024/05/20: フロリダ大学と共同で行った研究成果を, セキュリティのトップカンファレンス IEEE Security & Privacy 2024 で発表しました [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a245/1WPcZ3IOXJu),
 [プロジェクトの Web ページ](https://cpseclab.github.io/aquasonic/). 海底データセンターに対して水中から音波を照射することでハードディスクドライブを揺らし，データセンターにおけるデータアクセスを妨害する脆弱性に関するものです．
+報道: [フロリダ大学](https://news.ufl.edu/2024/05/underwater-data-center-security/),
+[Techspot](https://www.techspot.com/news/103061-acoustic-attacks-could-serious-threat-future-underwater-data.html),
+[NewScientist](https://www.newscientist.com/article/2430616-underwater-data-centres-could-be-destroyed-by-loud-noises/), 
+[The Register](https://www.theregister.com/2024/05/17/underwater_datacenters_sound_waves/),
+[Computing](https://www.computing.co.uk/news/4209265/underwater-datacentres-vulnerable-sonic-attacks).
 
 <video width="500px" height="400px" controls="controls">
     <source src="https://cpseclab.github.io/aquasonic/video/Demo.mp4" type="video/mp4" />
