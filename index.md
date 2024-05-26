@@ -8,9 +8,21 @@ layout: default
 
 # News
 
-- 2024/03/29: 三菱電機・NTT と共同で行った研究成果を, 30th Fast Software Encryption Conference (FSE 2024) で発表しました．
 
-- 2024/03/08: 三菱電機・NTT と共同で行った研究成果を, 22nd International Conference on Applied Cryptography and Network Security (ACNS 2024) で発表しました．
+- 2024/05/26: 三菱電機・NTT と共同で行った研究成果を, Eurocrypt で発表しました [PDF](https://link.springer.com/chapter/10.1007/978-3-031-58716-0_4).
+
+- 2024/05/20: フロリダ大学と共同で行った研究成果を, セキュリティのトップカンファレンス IEEE Security & Privacy 2024 で発表しました [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a245/1WPcZ3IOXJu),
+[プロジェクトの Web ページ](https://cpseclab.github.io/aquasonic/). 海底データセンターに対して水中から音波を照射することでハードディスクドライブを揺らし，データセンターにおけるデータアクセスを妨害する脆弱性に関するものです．
+
+<video width="500px" height="400px" controls="controls">
+    <source src="https://cpseclab.github.io/aquasonic/video/Demo.mp4" type="video/mp4" />
+</video>
+	   
+- 2024/05/06: 三菱電機・NTT と共同で行った研究成果を, RSA Conference の Cryptographers' Track で発表しました [PDF](https://link.springer.com/chapter/10.1007/978-3-031-58868-6_5).
+
+- 2024/03/29: 三菱電機・NTT と共同で行った研究成果を, 30th Fast Software Encryption Conference (FSE 2024) で発表しました [PDF](https://tosc.iacr.org/index.php/ToSC/article/view/11295)．
+
+- 2024/03/08: 三菱電機・NTT と共同で行った研究成果を, 22nd International Conference on Applied Cryptography and Network Security (ACNS 2024) で発表しました [論文](https://dl.acm.org/doi/abs/10.1007/978-3-031-54770-6_13)．
 
 - 2024/03/01: 米カリフォルニア大学アーバイン校、米フロリダ大学、米 Toyota InfoTech Labs と共同で行った研究成果を，The Network and Distributed System Security (NDSS) Symposium で発表しました．不可視のレーザーを照射することで，自動運転の道路標識を妨害できる脆弱性を発見しました．これは，1月に ITMedia の記事になった成果です．
 
