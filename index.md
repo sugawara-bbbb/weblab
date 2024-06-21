@@ -8,6 +8,9 @@ layout: default
 
 # News
 
+- 2024/06/21: 3月に卒業した田中君が在学中に行なった研究が IEEE Access に採録されました [Web](https://ieeexplore.ieee.org/document/10555221)．
+遠隔からレーザーを照射することで，光学式の入力デバイスを遠隔操作できる脆弱性を発見しました．以下は，投影式キーボードに任意のコマンドを挿入したり，折り曲げ式マウスのカーソルを操作したりするデモ動画です．
+<iframe src="https://drive.google.com/file/d/1qT3HVpCjtLuj6ZrIHpCZtG2D2v7BU-QV/preview" width="640" height="480" allow="autoplay"></iframe>
 
 - 2024/05/26: 三菱電機・NTT と共同で行った研究成果を, Eurocrypt で発表しました [PDF](https://link.springer.com/chapter/10.1007/978-3-031-58716-0_4).
 

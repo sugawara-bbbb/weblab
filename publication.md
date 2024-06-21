@@ -9,6 +9,7 @@ layout: default
 
 ## 学術論文（査読あり）
 
+1. T. Tanaka, S. Rampazzi, and T. Sugawara, "LightTouch: Harnessing Laser-Based Signal Injection to Manipulate Optical Human-Computer Interfaces," IEEE Access, 2024, [PDF](https://ieeexplore.ieee.org/document/10555221).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Committing Security of Ascon: Cryptanalysis on Primitive and Proof on Mode," IACR Trans. Symmetric Cryptology, 2023, [PDF](https://tosc.iacr.org/index.php/ToSC/article/view/11295).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "MMM: Authenticated Encryption with Minimum Secret State for Masking," IACR Trans. Cryptographic Hardware and Embedded Systems 2023(4), 2023 [PDF](https://tches.iacr.org/index.php/TCHES/article/view/11159).
 1. T. Asano and T. Sugawara, "Simulation-based Evaluation of Bit-Interaction Side-Channel Leakage on RISC-V: Extended Version," Journal of Cryptographic Engineering, 2023 [PDF](https://link.springer.com/article/10.1007/s13389-023-00319-z).
