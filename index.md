@@ -8,6 +8,7 @@ layout: default
 
 # News
 
+- 2024/10/18: 3月に卒業した土井君が在学中に行った研究が，Attacks and Solutions in Hardware Security (ASHES 2024) に採録されました．自己混合干渉と呼ばれる光学的なテクニックを用いて構築したレーザーマイク（レーザーを照射した位置の振動を計測する装置）が，遠隔から盗聴を引き起こす脅威を明らかにしました．
 - 2024/06/21: 3月に卒業した田中君が在学中に行なった研究が IEEE Access に採録されました [Web](https://ieeexplore.ieee.org/document/10555221)．
 遠隔からレーザーを照射することで，光学式の入力デバイスを遠隔操作できる脆弱性を発見しました．以下は，投影式キーボードに任意のコマンドを挿入したり，折り曲げ式マウスのカーソルを操作したりするデモ動画です．
 <iframe src="https://drive.google.com/file/d/1qT3HVpCjtLuj6ZrIHpCZtG2D2v7BU-QV/preview" width="640" height="480" allow="autoplay"></iframe>
