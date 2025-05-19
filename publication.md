@@ -9,7 +9,8 @@ layout: default
 
 ## 学術論文（査読あり）
 
-1. K. Doi and T. Sugawara, "Laser-based Covert Channel Attack Using Inaudible Acoustic Leakage from Multilayer Ceramic Capacitors," IEICE Trans. Fundamentals (to appear).
+1. B. Cyr, V. Sumaria, Y. Long, S. Tadigadapa, T. Sugawara, and K. Fu, “How Lasers Exploit Photoacoustic and Photoelectric Phenomena to Inject Signals into MEMS Microphones,”” Journal of Hardware and Systems Security (Springer HaSS) 2025.
+1. K. Doi and T. Sugawara, "Laser-based Covert Channel Attack Using Inaudible Acoustic Leakage from Multilayer Ceramic Capacitors," IEICE Trans. Fundamentals, [PDF](https://www.jstage.jst.go.jp/article/transfun/E108.A/3/E108.A_2024CIP0002/_pdf/-char/ja).
 1. T. Tanaka, S. Rampazzi, and T. Sugawara, "LightTouch: Harnessing Laser-Based Signal Injection to Manipulate Optical Human-Computer Interfaces," IEEE Access, 2024, [PDF](https://ieeexplore.ieee.org/document/10555221).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Committing Security of Ascon: Cryptanalysis on Primitive and Proof on Mode," IACR Trans. Symmetric Cryptology, 2023, [PDF](https://tosc.iacr.org/index.php/ToSC/article/view/11295).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "MMM: Authenticated Encryption with Minimum Secret State for Masking," IACR Trans. Cryptographic Hardware and Embedded Systems 2023(4), 2023 [PDF](https://tches.iacr.org/index.php/TCHES/article/view/11159).
@@ -51,7 +52,9 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. K. Doi, K. Ooi, and T. Sugawara, "Acoustic Eavesdropping Attack Using Self-Mixing Laser Interferometer," ASHES 2024 (to appear).
+1. A. Onishi, S. Hrushikesh Bhupathiraju, Rishikesh Bhatt, Sara Rampazzi, and T. Sugawara, “Sound of Interference: Electromagnetic Eavesdropping Attack on Digital Microphones Using Pulse Density Modulation,” USENIX Security Symposium (to appear)
+1. N. Miura, K. Monta, T. Wadatsumi, J. Shiomi, Y. Hiraga, T. Sugawara, M. Nagata, “A High-Order Masking with Load-Delay-Equalized WDDL for Provable Side-Channel Security,” 2025 Symposium on VLSI Technology and Circuits, 2025. (to appear)
+1. K. Doi, K. Ooi, and T. Sugawara, "Acoustic Eavesdropping Attack Using Self-Mixing Laser Interferometer," ASHES 2024, [PDF](https://dl.acm.org/doi/10.1145/3689939.3695786).
 1. J. Sheldon, W. Zhu, A. Abdullah, S. H. V. Bhupathiraju, T. Sugawara, K. Butler, M. J. Islam, and S. Rampazzi, "AquaSonic: Acoustic Manipulation of Underwater Data Center Operations and Resource Management," IEEE S&P 2024, [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a245/1WPcZ3IOXJu).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "The Exact Multi-User Security of (Tweakable) Key Alternating Ciphers with a Single Permutation," Eurocrypt 2024, 2024, [PDF](https://link.springer.com/chapter/10.1007/978-3-031-58716-0_4).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "The Exact Multi-User Security of 2-Key Triple DES," CT-RSA 2024, 2024, [PDF](https://link.springer.com/chapter/10.1007/978-3-031-58868-6_5).
