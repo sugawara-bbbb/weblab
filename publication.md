@@ -10,6 +10,7 @@ layout: default
 ## 学術論文（査読あり）
 
 1. B. Cyr, V. Sumaria, Y. Long, S. Tadigadapa, T. Sugawara, and K. Fu, “How Lasers Exploit Photoacoustic and Photoelectric Phenomena to Inject Signals into MEMS Microphones,”” Journal of Hardware and Systems Security (Springer HaSS) 2025.
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "Committing Wide Encryption Mode with Minimum Ciphertext Expansion," IACR Trans. Symmetric Cryptology, 2025, [PDF](https://tosc.iacr.org/index.php/ToSC/article/view/12071).
 1. K. Doi and T. Sugawara, "Laser-based Covert Channel Attack Using Inaudible Acoustic Leakage from Multilayer Ceramic Capacitors," IEICE Trans. Fundamentals, [PDF](https://www.jstage.jst.go.jp/article/transfun/E108.A/3/E108.A_2024CIP0002/_pdf/-char/ja).
 1. T. Tanaka, S. Rampazzi, and T. Sugawara, "LightTouch: Harnessing Laser-Based Signal Injection to Manipulate Optical Human-Computer Interfaces," IEEE Access, 2024, [PDF](https://ieeexplore.ieee.org/document/10555221).
 1. Y. Naito, Y. Sasaki, and T. Sugawara, "Committing Security of Ascon: Cryptanalysis on Primitive and Proof on Mode," IACR Trans. Symmetric Cryptology, 2023, [PDF](https://tosc.iacr.org/index.php/ToSC/article/view/11295).
