@@ -53,7 +53,8 @@ layout: default
 
 ## 国際会議プロシーディングス等（査読あり）
 
-1. A. Onishi, S. Hrushikesh Bhupathiraju, Rishikesh Bhatt, Sara Rampazzi, and T. Sugawara, “Sound of Interference: Electromagnetic Eavesdropping Attack on Digital Microphones Using Pulse Density Modulation,” USENIX Security Symposium (to appear)
+1. Y. Naito, Y. Sasaki, and T. Sugawara, "The Exact Multi-User Security of Key-Alternating Feistel Ciphers with a Single Permutation," Crypto 2025. 
+1. A. Onishi, S. H. Bhupathiraju, R. Bhatt, S. Rampazzi, and T. Sugawara, “Sound of Interference: Electromagnetic Eavesdropping Attack on Digital Microphones Using Pulse Density Modulation,” USENIX Security Symposium (to appear)
 1. N. Miura, K. Monta, T. Wadatsumi, J. Shiomi, Y. Hiraga, T. Sugawara, M. Nagata, “A High-Order Masking with Load-Delay-Equalized WDDL for Provable Side-Channel Security,” 2025 Symposium on VLSI Technology and Circuits, 2025. (to appear)
 1. K. Doi, K. Ooi, and T. Sugawara, "Acoustic Eavesdropping Attack Using Self-Mixing Laser Interferometer," ASHES 2024, [PDF](https://dl.acm.org/doi/10.1145/3689939.3695786).
 1. J. Sheldon, W. Zhu, A. Abdullah, S. H. V. Bhupathiraju, T. Sugawara, K. Butler, M. J. Islam, and S. Rampazzi, "AquaSonic: Acoustic Manipulation of Underwater Data Center Operations and Resource Management," IEEE S&P 2024, [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a245/1WPcZ3IOXJu).
