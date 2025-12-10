@@ -8,9 +8,9 @@ layout: default
 
 # News
 
-- 2025/10/22: 三菱電機・NTT と共同で行った研究成果を, Information Security Conference (ISC 2025) で発表し，Best Paper Award を受賞しました．
+- 2025/12/10: D1 の平賀君が, 三菱電機, NTT, 米国標準技術研究所 (NIST) と共同で行った研究成果が, 暗号分野のトップカンファレンス Asiacrypt 2025 に採録されました [NTT による広報発表](https://group.ntt/jp/topics/2025/12/08/asiacrypt2025.html)．
 
-- 2025/09/24: D1 の平賀君が, 三菱電機・NTT・米国標準技術研究所 (NIST) と共同で行った研究成果が, 暗号分野のトップカンファレンス Asiacrypt 2025 に採録されました．
+- 2025/10/22: 三菱電機・NTT と共同で行った研究成果を, Information Security Conference (ISC 2025) で発表し，Best Paper Award を受賞しました．
 
 - 2025/08/18: 三菱電機・NTT と共同で行った研究成果を, 暗号分野のトップカンファレンス Crypto 2025 で発表しました [PDF](https://link.springer.com/chapter/10.1007/978-3-032-01901-1_13), [NTT による広報発表](https://group.ntt/jp/topics/2025/08/15/crypto_2025.html).
 
